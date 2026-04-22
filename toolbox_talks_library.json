@@ -1,0 +1,2594 @@
+[
+  {
+    "talk_number": 1,
+    "title": "Fall Protection — General Requirements",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Fatal Four / Top 10 Most Cited",
+    "primary_cfr": "1926.501",
+    "secondary_cfr": ["1910.28", "1926.502"],
+    "talking_points": [
+      "In construction, fall protection is required at 6 feet above a lower level — in general industry, the trigger is 4 feet. Know which standard applies to your task today.",
+      "Acceptable fall protection systems include guardrails, safety nets, and personal fall arrest systems (PFAS). Your supervisor will determine which system fits the task.",
+      "Guardrail top rails must be 42 inches high (plus or minus 3 inches) and withstand 200 pounds of outward or downward force without failure.",
+      "Floor holes and wall openings must be covered or guarded. Covers must support at least twice the maximum intended load and be marked 'HOLE' or 'COVER.'",
+      "Never remove or disable fall protection — if you find a guardrail missing or a hole cover displaced, stop work, secure the area, and notify your supervisor immediately."
+    ],
+    "discussion_prompt": "What's one area on this jobsite right now where you think fall protection could be improved — and what would you do about it?"
+  },
+  {
+    "talk_number": 2,
+    "title": "Ladder Safety — Portable Ladders",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1926.1053",
+    "secondary_cfr": ["1910.23"],
+    "talking_points": [
+      "Inspect all rungs and rails before use — set aside any ladder with cracks, loose hardware, bent rails, or missing feet.",
+      "Set the base 1 foot out for every 4 feet of height. Secure the top against the structure so it cannot slide or shift.",
+      "Maintain three points of contact at all times — two hands and one foot, or two feet and one hand.",
+      "Never stand on the top two rungs of a stepladder or the top three rungs of an extension ladder.",
+      "Face the ladder when climbing — do not lean or reach beyond the side rails. Move the ladder instead of overreaching."
+    ],
+    "discussion_prompt": "If you get to a ladder and notice a bent rung, what do you do — and who do you tell?"
+  },
+  {
+    "talk_number": 3,
+    "title": "Ladder Safety — Fixed Ladders",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.23(d)",
+    "secondary_cfr": ["1926.1053"],
+    "talking_points": [
+      "Fixed ladders taller than 24 feet must have a ladder safety system or personal fall arrest system — cages alone no longer meet the standard for new installations.",
+      "OSHA is phasing out existing cage and well systems by November 2036. If your site still has caged ladders, know that a retrofit is coming.",
+      "Before climbing a fixed ladder, check the rungs for corrosion, ice, grease, or damage. Report any deficiencies before use.",
+      "Use the ladder safety system properly — attach the sleeve or connector to your harness D-ring before you begin climbing and do not detach until you reach a safe platform.",
+      "At the top and bottom of fixed ladders, there should be a clear landing platform. Never step off a ladder into an unprotected area."
+    ],
+    "discussion_prompt": "Have you ever climbed a fixed ladder that didn't feel safe? What was wrong with it, and what did you do?"
+  },
+  {
+    "talk_number": 4,
+    "title": "Scaffolding — Supported Scaffolds",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1926.451",
+    "secondary_cfr": ["1926.452"],
+    "talking_points": [
+      "Every scaffold must support its own weight plus at least four times the maximum intended load without failure.",
+      "Fall protection is required when the scaffold platform is 10 feet or more above the ground — this means guardrails, PFAS, or both depending on the scaffold type.",
+      "Scaffold planks must be scaffold-grade lumber or manufactured decking. The gap between the platform and the face of the work must not exceed 14 inches (10 inches for plastering and lathing).",
+      "Mudsills and base plates are required. Never build a scaffold on unstable ground — bricks, blocks, or barrels are not acceptable as a foundation.",
+      "Toeboards at least 3.5 inches high are required along open edges to prevent tools and materials from falling onto workers below."
+    ],
+    "discussion_prompt": "What's the first thing you check before stepping onto a scaffold at the start of your shift?"
+  },
+  {
+    "talk_number": 5,
+    "title": "Scaffolding — Suspended Scaffolds",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1926.451(d)",
+    "secondary_cfr": ["1926.452(o)"],
+    "talking_points": [
+      "Suspension ropes must support six times the intended load — this is a higher safety factor than supported scaffolds because the consequences of rope failure are catastrophic.",
+      "Every worker on a suspended scaffold must wear a full-body harness attached to an independent lifeline — the scaffold guardrails alone are not sufficient.",
+      "Inspect wire ropes daily for broken wires, kinking, corrosion, and bird-caging. Remove any rope that shows damage.",
+      "Counterweights must be non-flowable (no sand or water) and secured to the outrigger beam — do not use construction materials that may be removed during the project.",
+      "Before use each day, test the hoist by raising the platform 12 inches and confirming the brakes hold. If the platform drifts, do not use the scaffold."
+    ],
+    "discussion_prompt": "Why do you think suspended scaffolds require a higher safety factor than supported scaffolds?"
+  },
+  {
+    "talk_number": 6,
+    "title": "Scaffolding — Access and Erection",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.451(e)",
+    "secondary_cfr": ["1926.454"],
+    "talking_points": [
+      "Safe access — a ladder, stair tower, or ramp — is required whenever the scaffold platform is more than 2 feet above or below a point of access.",
+      "Climbing on cross-braces is prohibited. If there is no built-in ladder or stair, one must be provided before anyone works on the scaffold.",
+      "Only a competent person may direct the erection, moving, dismantling, or alteration of a scaffold. If you are not that person, do not modify the scaffold.",
+      "During erection and dismantling, fall protection is still required for workers at height — this is when many scaffold-related injuries occur.",
+      "Tag scaffolds clearly: green tag means fully inspected and safe; red tag means incomplete or unsafe — never use a red-tagged scaffold."
+    ],
+    "discussion_prompt": "What would you do if you saw someone climbing the cross-braces to reach a scaffold platform?"
+  },
+  {
+    "talk_number": 7,
+    "title": "Aerial Lifts and Scissor Lifts",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.453",
+    "secondary_cfr": ["1926.501", "1910.67"],
+    "talking_points": [
+      "In a boom lift (articulating or telescoping), a full-body harness with a lanyard attached to the basket is required at all times — do not tie off to an adjacent structure.",
+      "In a scissor lift, the guardrail system is the primary fall protection. A harness is generally not required unless the manufacturer or site rules say otherwise.",
+      "Perform a ground-level inspection before each use: check controls, hydraulics, outriggers, tires, and guardrails. Test all functions at ground level before elevating.",
+      "Never stand on the guardrails or use a ladder or step stool inside the basket to gain extra height.",
+      "Be aware of overhead hazards — power lines, structural steel, ceiling obstructions — and maintain safe clearances as you reposition."
+    ],
+    "discussion_prompt": "Why do you think boom lifts require a harness but scissor lifts generally don't?"
+  },
+  {
+    "talk_number": 8,
+    "title": "Leading Edge Work",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.501(b)(2)",
+    "secondary_cfr": ["1926.502"],
+    "talking_points": [
+      "A leading edge is any unprotected side or edge of a floor, roof, or deck where work is actively in progress — fall protection is required at 6 feet.",
+      "Acceptable protection at a leading edge includes guardrails, safety nets, or PFAS. A controlled access zone is allowed only when conventional methods are infeasible.",
+      "If using PFAS at a leading edge, the maximum allowable freefall distance is 6 feet, and the system must limit arrest force to 1,800 pounds.",
+      "Controlled access zones must be at least 6 feet back from the edge and marked with a control line 39 to 45 inches high. Only authorized workers may enter.",
+      "Leading edge work is one of the most common situations for fatal falls. If your protection is missing or inadequate, stop work and speak up — it can save a life."
+    ],
+    "discussion_prompt": "Have you ever worked near a leading edge where the fall protection felt inadequate? What would you do differently?"
+  },
+  {
+    "talk_number": 9,
+    "title": "Roofing — Low-Slope Roofs",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.501(b)(10)",
+    "secondary_cfr": ["1910.28(b)(13)"],
+    "talking_points": [
+      "On a low-slope roof in construction, a combination of a warning line and safety monitor is permitted in certain conditions — but PFAS or guardrails are always the safer choice.",
+      "Warning lines must be set back at least 6 feet from the roof edge, supported by stanchions, and flagged every 6 feet for visibility.",
+      "In general industry, the rules use a tiered approach: within 6 feet of the edge, conventional fall protection is required. Between 6 and 15 feet, a designated area may be used for infrequent work.",
+      "Roof openings and skylights are fall hazards too — they must be guarded or covered with materials that support twice the intended load.",
+      "Wind, rain, ice, and debris all increase fall risk on roofs. Evaluate conditions before starting work and reassess throughout the day."
+    ],
+    "discussion_prompt": "What additional precautions do you think are needed when working on a roof in wet or windy conditions?"
+  },
+  {
+    "talk_number": 10,
+    "title": "Roofing — Steep-Slope Roofs",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.501(b)(11)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "A steep-slope roof is any roof with a pitch greater than 4 inches of rise per 12 inches of run. Fall protection is required at 6 feet.",
+      "On steep-slope roofs, a safety monitor system alone is NOT permitted — you must use guardrails, safety nets, or PFAS.",
+      "Roof brackets (also called roof jacks) provide a temporary work platform and can serve as an anchor point when properly installed.",
+      "Footwear matters — wear boots with slip-resistant soles designed for roof work. Smooth-soled shoes are a leading contributor to roof falls.",
+      "Never walk on a steep roof without your fall protection attached. Even experienced roofers can lose footing — gravity does not care about your skill level."
+    ],
+    "discussion_prompt": "What's the steepest roof you've worked on, and what fall protection was used?"
+  },
+  {
+    "talk_number": 11,
+    "title": "Floor Openings, Holes, and Covers",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.502(i)",
+    "secondary_cfr": ["1910.28", "1910.29"],
+    "talking_points": [
+      "Any hole in a floor, roof, or walking surface large enough for a person to step into or fall through must be covered or guarded.",
+      "Covers must be strong enough to support at least twice the maximum intended load, including workers, equipment, and materials.",
+      "Covers must be secured so they cannot be accidentally displaced — nail them, screw them, or bolt them in place.",
+      "Mark all covers clearly with the word 'HOLE' or 'COVER' in a contrasting color so no one mistakes them for part of the floor.",
+      "If you see a cover that has been removed or displaced, do not walk past it. Secure the area, replace the cover, and report it."
+    ],
+    "discussion_prompt": "Why do you think displaced or unmarked hole covers are such a common cause of falls?"
+  },
+  {
+    "talk_number": 12,
+    "title": "Steel Erection — Fall Protection",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.760",
+    "secondary_cfr": ["1926.756"],
+    "talking_points": [
+      "Connectors (ironworkers making initial connections) are exempt from fall protection below 15 feet, but must be protected above 30 feet for decking operations.",
+      "Between 15 and 30 feet, connectors must have completed connector training and be provided with a PFAS, even if they choose when to use it.",
+      "Controlled decking zones are permitted for initial decking of steel structures — these zones have specific size limits and must be clearly marked.",
+      "At least two bolts must be installed at each connection point before the load is released from the crane. This is the minimum for structural integrity.",
+      "A site-specific erection plan is required and must address fall protection, crane procedures, and the sequence of steel placement."
+    ],
+    "discussion_prompt": "Why do you think ironworkers have different fall protection height triggers than other trades?"
+  },
+  {
+    "talk_number": 13,
+    "title": "Stairways and Handrails",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.1052",
+    "secondary_cfr": ["1910.25"],
+    "talking_points": [
+      "A handrail is required on stairways with four or more risers, or where the stairway rises more than 30 inches.",
+      "Handrail height must be between 30 and 37 inches measured from the leading edge of the stair tread to the top of the rail.",
+      "Stair treads must be at least 4 inches deep (for pan-type treads filled to the top), and risers must be between 6.5 and 12 inches high.",
+      "Temporary stairs on construction sites must be kept clear of stored materials, debris, and tripping hazards at all times.",
+      "Do not use a stairway that is still under construction unless it has been properly secured with handrails and is structurally complete."
+    ],
+    "discussion_prompt": "What's the most common stairway hazard you see on a jobsite — and how can we fix it today?"
+  },
+  {
+    "talk_number": 14,
+    "title": "Personal Fall Arrest Systems (PFAS)",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.502(d)",
+    "secondary_cfr": ["1910.140"],
+    "talking_points": [
+      "A PFAS consists of three components: a full-body harness, a connector (lanyard or retractable), and an anchorage point rated for at least 5,000 pounds per worker.",
+      "Maximum freefall distance is 6 feet. Maximum deceleration distance is 3.5 feet. Together with harness stretch, you need at least 18.5 feet of clearance below your anchorage.",
+      "The maximum arresting force on the body must not exceed 1,800 pounds — this is why shock-absorbing lanyards and retractables are used instead of plain rope.",
+      "After a fall arrest, the harness and all components must be removed from service, inspected by a competent person, and replaced if there is any sign of damage.",
+      "Prompt rescue must be planned before any PFAS use. A worker suspended in a harness can develop suspension trauma in as little as 15 minutes."
+    ],
+    "discussion_prompt": "Do you know what your rescue plan is if someone on this crew takes a fall today — and how quickly can we get to them?"
+  },
+  {
+    "talk_number": 15,
+    "title": "Guardrail Systems",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.502(b)",
+    "secondary_cfr": ["1910.29"],
+    "talking_points": [
+      "Top rails must be 42 inches high (plus or minus 3 inches) and able to withstand 200 pounds of force applied in any outward or downward direction.",
+      "Midrails are required and must be installed halfway between the top rail and the walking surface — approximately 21 inches high.",
+      "Toeboards at least 3.5 inches high are required where materials could fall from the platform onto workers below.",
+      "Wire rope guardrails are acceptable if flagged every 6 feet with visible material and tensioned to prevent more than 3 inches of deflection.",
+      "Never lean against a guardrail as a backrest or use it to support heavy loads — guardrails are designed to arrest a fall, not to bear working loads."
+    ],
+    "discussion_prompt": "If you noticed a guardrail that was loose or wobbly, what would you do before continuing work in that area?"
+  },
+  {
+    "talk_number": 16,
+    "title": "Safety Nets",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.502(c)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Safety nets must be installed as close under the work surface as practical, and never more than 30 feet below.",
+      "Nets must extend outward from the edge of the work surface: 8 feet for fall distances up to 5 feet, and up to 13 feet for falls of 10 feet or more.",
+      "Drop-test safety nets with a 400-pound sandbag before use and after any repair. The net must catch the bag without contacting any surface below.",
+      "Remove all accumulated debris from safety nets at least weekly or before debris could affect net performance.",
+      "Safety nets are most common in bridge work, high-rise steel erection, and long-duration elevated work where guardrails and PFAS are impractical."
+    ],
+    "discussion_prompt": "What do you think are the advantages and disadvantages of safety nets compared to guardrails or harnesses?"
+  },
+  {
+    "talk_number": 17,
+    "title": "Struck-By Hazards — Overview",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.20",
+    "secondary_cfr": ["1926.250", "1926.550"],
+    "talking_points": [
+      "Struck-by is one of OSHA's Fatal Four — the four leading causes of construction fatalities. Objects that fly, fall, swing, or roll are the main threats.",
+      "Never position yourself under a suspended load — even momentarily. If a crane or hoist is moving material above you, move out from underneath.",
+      "Secure all tools and materials at height with tool lanyards, toeboards, debris nets, or enclosed tool bags to prevent them from falling on workers below.",
+      "Be aware of vehicles and mobile equipment — stay visible, make eye contact with operators, and stay outside the swing radius of excavators and cranes.",
+      "Hard hats, safety glasses, and high-visibility clothing are your last line of defense — wear them properly and inspect them daily."
+    ],
+    "discussion_prompt": "Can you think of a time on this job where something fell or flew toward someone — what could have prevented it?"
+  },
+  {
+    "talk_number": 18,
+    "title": "Hard Hat Requirements",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.100",
+    "secondary_cfr": ["1910.135"],
+    "talking_points": [
+      "Type I hard hats protect from impacts to the top of the head. Type II hard hats protect from both top and lateral impacts — know which your site requires.",
+      "Electrical classes matter: Class E is rated for 20,000 volts, Class G for 2,200 volts, and Class C provides no electrical protection.",
+      "Inspect your hard hat daily — look for cracks, dents, fading, or a chalky texture in the shell, and check the suspension for tears or lost elasticity.",
+      "Replace the suspension system at least annually, or immediately if it shows damage. Replace the shell every 5 years or per the manufacturer's guidelines.",
+      "Do not drill holes in your hard hat, apply stickers over damage, wear it backward (unless designed for it), or store it in direct sunlight for extended periods."
+    ],
+    "discussion_prompt": "How old is your hard hat's suspension — and when was the last time you replaced it?"
+  },
+  {
+    "talk_number": 19,
+    "title": "Crane Operations — General",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.1400-1441",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Only a certified, qualified operator may operate a crane. Certification is type-specific and capacity-specific, and must be renewed every five years.",
+      "Before each shift, the operator must perform a visual inspection and functional test. A competent person must perform a more thorough monthly inspection.",
+      "Maintain at least 20 feet of clearance from power lines up to 350kV. For lines over 350kV, greater distances apply per the voltage table.",
+      "A designated signal person is required whenever the operator cannot see the load or the landing zone. Use standard hand signals per OSHA requirements.",
+      "Know the crane's load chart — never exceed the rated capacity for the current configuration, radius, and boom length."
+    ],
+    "discussion_prompt": "What would you do if an operator asked you to guide a load near a power line?"
+  },
+  {
+    "talk_number": 20,
+    "title": "Crane Signals and Communication",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.1419-1421",
+    "secondary_cfr": [],
+    "talking_points": [
+      "A qualified signal person must be used when the operator cannot directly see the load or its intended landing zone.",
+      "Signal persons must meet OSHA qualification requirements — either by a third-party evaluation or by employer assessment documented in writing.",
+      "Standard hand signals are required unless voice communication (radio) is used. Both the operator and signal person must agree on the method before the lift.",
+      "Any person on site can give an emergency stop signal, and the operator must obey it regardless of who gave it.",
+      "Never give signals for fun or casually gesture near a crane — the operator may interpret it as a command and move the load."
+    ],
+    "discussion_prompt": "Can you demonstrate the standard hand signal for 'stop' and 'emergency stop' — and what's the difference?"
+  },
+  {
+    "talk_number": 21,
+    "title": "Rigging and Load Securement",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.251",
+    "secondary_cfr": ["1926.1404"],
+    "talking_points": [
+      "All slings — wire rope, synthetic, chain, or metal mesh — must have a minimum safety factor of 5:1 based on the rated capacity.",
+      "Inspect slings before each use. For wire rope, look for 10 or more broken wires in one rope lay, kinking, crushing, corrosion, or bird-caging.",
+      "Never wrap a sling around a sharp edge without padding. A sharp corner can cut through synthetic webbing in a single lift.",
+      "Know the sling angle — as the angle decreases from vertical, the load on each sling leg increases. At 30 degrees from horizontal, each leg carries twice the proportional load.",
+      "Shackles, hooks, and other hardware must match the sling rating. A 5-ton sling on a 3-ton shackle means your system is only rated for 3 tons."
+    ],
+    "discussion_prompt": "What's the first thing you look for when inspecting a wire rope sling — and when was the last time you rejected one?"
+  },
+  {
+    "talk_number": 22,
+    "title": "Overhead Loads and Barricading",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.250",
+    "secondary_cfr": ["1926.759"],
+    "talking_points": [
+      "No worker should ever stand or walk under a suspended load. Barricade the area under and around any active lift zone.",
+      "Tag lines are required on loads that could swing, spin, or contact structures. The tag line operator must stay clear of the drop zone.",
+      "Barricade the full swing radius of the crane's boom and load. Workers outside the barricade should understand that the load can swing beyond its intended path.",
+      "Store materials away from edges where they could be knocked off by wind, vibration, or accidental contact — especially near multi-story openings.",
+      "If you see an unsecured load overhead, do not walk under it. Alert the crew and the operator immediately."
+    ],
+    "discussion_prompt": "What's the best way to barricade a lift zone when there's a lot of foot traffic on site?"
+  },
+  {
+    "talk_number": 23,
+    "title": "High-Visibility Clothing",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.201",
+    "secondary_cfr": ["ANSI 107"],
+    "talking_points": [
+      "ANSI Class 2 high-visibility vests or shirts are the minimum for most construction work near vehicle traffic or mobile equipment.",
+      "Class 3 garments — which cover more of the body including the arms and legs — are required for work near high-speed traffic (over 50 mph) or in low-light conditions.",
+      "Retroreflective strips must be clean and intact. Faded, torn, or covered stripes reduce your visibility significantly — especially at dawn, dusk, and at night.",
+      "High-visibility clothing does not make you invincible. Always maintain situational awareness, make eye contact with equipment operators, and use designated walkways.",
+      "Replace high-vis garments when the background fluorescent fabric has faded or when retroreflective strips no longer reflect light when tested."
+    ],
+    "discussion_prompt": "Take a look at your vest right now — are the reflective strips still bright, or is it time for a replacement?"
+  },
+  {
+    "talk_number": 24,
+    "title": "Powered Industrial Trucks (Forklifts)",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1910.178",
+    "secondary_cfr": ["1926.602"],
+    "talking_points": [
+      "Only trained and certified operators may operate a forklift. Certification must be renewed every three years, and re-evaluation is required after any incident.",
+      "Perform a pre-shift inspection every time — check brakes, steering, horn, lights, forks, mast, tires, and hydraulics before operating.",
+      "The load capacity plate must be visible and legible. Never exceed the rated capacity — remember that capacity decreases as the load center moves farther from the mast.",
+      "Pedestrians have the right of way, but don't count on it. Operators must slow down at intersections, sound the horn, and maintain clear sightlines.",
+      "Never allow riders on the forks, on the counterweight, or anywhere on the forklift not designed for passengers."
+    ],
+    "discussion_prompt": "What's the most dangerous thing you've seen happen with a forklift — and how could it have been prevented?"
+  },
+  {
+    "talk_number": 25,
+    "title": "Trenching and Excavation — Protective Systems",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Fatal Four / Emphasis Program",
+    "primary_cfr": "1926.652",
+    "secondary_cfr": ["1926.650", "1926.651"],
+    "talking_points": [
+      "A protective system — sloping, benching, shoring, or a trench shield — is mandatory for any trench 5 feet deep or more, unless the excavation is entirely in stable rock.",
+      "Soil classification determines the required slope: Type A (most stable) at 3/4:1, Type B at 1:1, and Type C (least stable) at 1.5:1. Most construction soil is Type B or C.",
+      "For trenches deeper than 20 feet, the protective system must be designed or approved by a Registered Professional Engineer.",
+      "Trench shields (trench boxes) protect workers from cave-ins but do not prevent the cave-in itself. They must extend at least 18 inches above the surrounding grade.",
+      "Never enter an unprotected trench — even a shallow one. Soil weighs about 100 pounds per cubic foot. A cubic yard of soil can weigh as much as a car."
+    ],
+    "discussion_prompt": "If you arrived at a trench that had no protective system in place, what would you do — even if your foreman told you to get in?"
+  },
+  {
+    "talk_number": 26,
+    "title": "Trenching and Excavation — Access and Egress",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.651(c)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "A ladder, stairway, or ramp must be provided in trenches 4 feet deep or more. You must not travel more than 25 feet laterally to reach the exit.",
+      "Ladders must extend at least 3 feet above the top of the trench and be secured against displacement.",
+      "The spoil pile — the excavated dirt — must be placed at least 2 feet back from the edge of the trench to prevent material from falling in and adding surcharge load to the walls.",
+      "Heavy equipment, vehicles, and stored materials must also be kept back from the trench edge. Vibration from equipment can destabilize the soil.",
+      "In an emergency — water rushing in, the sound of cracking soil, or visible wall movement — exit immediately. Do not wait for instructions."
+    ],
+    "discussion_prompt": "Can you see the nearest ladder from where you'd be standing in today's trench — or do we need to add one?"
+  },
+  {
+    "talk_number": 27,
+    "title": "Trenching and Excavation — Competent Person",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.650-652",
+    "secondary_cfr": [],
+    "talking_points": [
+      "A competent person must inspect the excavation, adjacent areas, and protective systems daily before work begins and after any rain, vibration, or other event that could change conditions.",
+      "The competent person must be able to identify existing and predictable hazards and have the authority to take immediate corrective action — including stopping work.",
+      "Soil classification is the competent person's responsibility. They must evaluate the soil type using at least one visual and one manual test (thumb penetration, ribbon, etc.).",
+      "If conditions change — unexpected water, utility crossings, or signs of soil movement — the competent person must reassess and may need to upgrade the protective system.",
+      "Every worker in and around the excavation should know who the competent person is for today's work. If you don't know, ask before entering."
+    ],
+    "discussion_prompt": "Who is the competent person for today's excavation work — and when was the last inspection?"
+  },
+  {
+    "talk_number": 28,
+    "title": "Machine Guarding — General",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "General Industry",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1910.212",
+    "secondary_cfr": ["1910.219"],
+    "talking_points": [
+      "Every point of operation, nip point, rotating shaft, and moving part that a worker could contact must be guarded.",
+      "The 7-foot rule: if rotating parts (fan blades, shafts, pulleys, belts) are less than 7 feet above the floor or working level, they must be enclosed or guarded.",
+      "Guard openings must be small enough to prevent fingers from reaching the hazard — for fan blade guards, the maximum opening is 0.5 inches.",
+      "Never remove or bypass a guard to speed up production. If a guard interferes with the task, report it so an engineering solution can be found.",
+      "Before performing any maintenance or adjustment on a guarded machine, lock out and tag out the energy source first."
+    ],
+    "discussion_prompt": "Have you ever seen a machine running with a guard removed? What was the reason — and what's the safer alternative?"
+  },
+  {
+    "talk_number": 29,
+    "title": "Machine Guarding — Abrasive Wheels",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "General Industry",
+    "osha_priority": "",
+    "primary_cfr": "1910.215",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Before mounting any abrasive wheel, perform a ring test — tap the wheel gently and listen for a clear ring. A dull thud indicates a crack; do not use the wheel.",
+      "The work rest must be adjusted to within 1/8 inch of the wheel face. A larger gap can pull material — or your fingers — into the wheel.",
+      "The tongue guard (the adjustable shield above the work rest) must be within 1/4 inch of the wheel surface.",
+      "Never exceed the RPM rating printed on the wheel. A wheel running above its rated speed can explode with extreme force.",
+      "Always wear a face shield over safety glasses when grinding. Safety glasses alone do not provide adequate protection from flying particles and wheel fragments."
+    ],
+    "discussion_prompt": "When was the last time someone adjusted the work rest on our bench grinder — and is it within the 1/8 inch requirement right now?"
+  },
+  {
+    "talk_number": 30,
+    "title": "Machine Guarding — Power Presses",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "General Industry",
+    "osha_priority": "",
+    "primary_cfr": "1910.217",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Power presses are responsible for a significant number of workplace amputations. Point-of-operation guards are mandatory and must prevent hands from entering the die area.",
+      "Anti-repeat mechanisms prevent the press from cycling more than once per actuation. These must be tested and verified weekly.",
+      "Two-hand trip controls require both hands to be on the buttons simultaneously, keeping them clear of the point of operation during the stroke.",
+      "Inspect clutch and brake mechanisms weekly. A press that does not stop reliably at the top of the stroke is immediately dangerous.",
+      "Pull-back devices must be properly adjusted to each operator. Retract straps that are too loose will not clear your hands in time."
+    ],
+    "discussion_prompt": "What would you do if you noticed the press was occasionally double-stroking — even if it seemed minor?"
+  },
+  {
+    "talk_number": 31,
+    "title": "Lockout/Tagout (LOTO)",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1910.147",
+    "secondary_cfr": ["1926.417"],
+    "talking_points": [
+      "Before servicing or maintaining any machine, all hazardous energy sources — electrical, mechanical, hydraulic, pneumatic, chemical, thermal, and gravitational — must be isolated and controlled.",
+      "Each worker performing the service must apply their own personal lock and tag. Never rely on someone else's lock to protect you.",
+      "After locking out, attempt to restart the equipment to verify it is truly de-energized. This 'try' step is critical and often skipped.",
+      "Written energy control procedures are required for each machine or piece of equipment. A generic 'turn it off and lock it' procedure is not compliant.",
+      "LOTO procedures must be reviewed at least annually and updated whenever equipment is modified or new energy sources are introduced."
+    ],
+    "discussion_prompt": "Can you walk through the lockout procedure for the piece of equipment you're working on today — from notification to verification?"
+  },
+  {
+    "talk_number": 32,
+    "title": "Conveyor Safety",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.212",
+    "secondary_cfr": ["1926.555"],
+    "talking_points": [
+      "Never reach into a moving conveyor to clear a jam, retrieve material, or make an adjustment. Shut it down and lock it out first.",
+      "Emergency stop devices must be accessible along the entire length of the conveyor. Know where every e-stop is located in your work area.",
+      "Nip points where the belt meets rollers, pulleys, or idlers must be guarded. These areas can pull in loose clothing, fingers, and hands in a fraction of a second.",
+      "No one should ride on a conveyor belt under any circumstances, even when it appears to be moving slowly.",
+      "Walkways along conveyors must be kept clear. Tripping near a moving conveyor dramatically increases the chance of contact with moving parts."
+    ],
+    "discussion_prompt": "Where are the emergency stops on the conveyors in your work area — can you point to all of them right now?"
+  },
+  {
+    "talk_number": 33,
+    "title": "Unprotected Moving Parts — Belts, Pulleys, Gears",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "General Industry",
+    "osha_priority": "",
+    "primary_cfr": "1910.219",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Vertical and inclined belts less than 7 feet above the floor must be fully enclosed — not just covered on one side.",
+      "Projecting shaft ends must not extend more than half the shaft diameter beyond the bearing, unless guarded. Even a smooth rotating shaft can grab clothing.",
+      "Gears, sprockets, and chain drives must be enclosed regardless of height if workers could come into contact with them during normal operations.",
+      "Loose clothing, jewelry, long hair, and lanyards are the most common items caught in rotating parts. Tie back hair, remove jewelry, and tuck in clothing before working near machinery.",
+      "If you hear an unusual noise — grinding, clicking, or vibration — from a belt or pulley system, shut the machine down and report it. That noise is often the warning before failure."
+    ],
+    "discussion_prompt": "Are there any exposed belts, pulleys, or shafts in your work area that you think should be guarded?"
+  },
+  {
+    "talk_number": 34,
+    "title": "Electrical Safety — General",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Fatal Four / Top 10 Most Cited",
+    "primary_cfr": "1926.405",
+    "secondary_cfr": ["1910.303-308"],
+    "talking_points": [
+      "Electrocution is one of the Fatal Four causes of death in construction. It takes less than 100 milliamps — the amount of current through a 100-watt light bulb — to cause a fatal heart rhythm.",
+      "On construction sites, all 120-volt, single-phase, 15-, 20-, and 30-amp receptacle outlets on temporary power must be GFCI-protected, or covered by an AEGCP.",
+      "Before plugging in, inspect cords and tools for damage — frayed insulation, missing ground pins, cracked housings, or exposed wires. Remove damaged equipment from service.",
+      "Never use electrical equipment in wet conditions unless it is rated for wet use and protected by a GFCI.",
+      "Treat every wire and circuit as live until you have personally verified it is de-energized, locked out, and tested with a voltage detector."
+    ],
+    "discussion_prompt": "Where is the nearest GFCI outlet or panel to where you're working today — and when was it last tested?"
+  },
+  {
+    "talk_number": 35,
+    "title": "Lockout/Tagout — Electrical Systems",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.417",
+    "secondary_cfr": ["1910.147"],
+    "talking_points": [
+      "Before any electrical work, the circuit must be de-energized at the source, locked with a personal lock, and tagged with your name and date.",
+      "After locking out, use a voltage tester to verify zero energy at the point of work. Test the tester on a known live source first to confirm it is functioning.",
+      "Stored energy — in capacitors, batteries, or UPS systems — must be discharged or isolated before work begins. Locking out the breaker alone may not be enough.",
+      "If multiple workers are involved, each person applies their own lock to the lockout device. The last person to finish removes the last lock.",
+      "Only the person who applied a lock may remove it. If that person is unavailable, your company's specific emergency lock-removal procedure must be followed — never cut someone else's lock."
+    ],
+    "discussion_prompt": "What types of stored energy might still be present in a circuit after you've turned off the breaker?"
+  },
+  {
+    "talk_number": 36,
+    "title": "Power Line Clearance",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.1408",
+    "secondary_cfr": ["1926.1410"],
+    "talking_points": [
+      "Maintain at least 20 feet of clearance between any part of a crane (including the load line and load) and power lines up to 350kV.",
+      "For non-crane equipment — boom trucks, concrete pumps, excavators — maintain at least 10 feet from lines under 50kV.",
+      "Always assume overhead lines are energized unless the utility has confirmed de-energization in writing and installed visible grounds.",
+      "Designate a spotter whose sole job is to watch clearance when equipment operates near power lines. The spotter should do nothing else during the operation.",
+      "Electricity can arc through air — you do not have to physically touch a power line to be electrocuted. This is why minimum distances exist."
+    ],
+    "discussion_prompt": "Are there any overhead power lines on or near this jobsite — and does everyone know the minimum clearance for the equipment we're using?"
+  },
+  {
+    "talk_number": 37,
+    "title": "Extension Cords and Temporary Wiring",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.405(a)",
+    "secondary_cfr": ["1910.305"],
+    "talking_points": [
+      "Extension cords on construction sites must be hard-usage or extra-hard-usage rated (marked 'S,' 'ST,' 'SO,' 'STO,' or similar on the jacket).",
+      "The ground pin on every plug must be intact. A cord with a missing or bent ground pin must be removed from service immediately.",
+      "Do not splice or tape damaged cords — replace them. A taped splice is not a repair; it is a fire and shock hazard.",
+      "Extension cords are temporary — they are not a substitute for permanent wiring. Temporary wiring on construction sites should not exceed 90 days.",
+      "Protect cords from damage: route them overhead or use cord covers at ground level. Do not run them through doorways where they can be pinched or through standing water."
+    ],
+    "discussion_prompt": "How many extension cords are you using today — and when was the last time you inspected each one?"
+  },
+  {
+    "talk_number": 38,
+    "title": "Ground-Fault Protection (GFCIs)",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.404(b)",
+    "secondary_cfr": ["1910.304(b)"],
+    "talking_points": [
+      "A GFCI detects an imbalance of as little as 5 milliamps between the hot and neutral conductors and trips the circuit in about 1/40th of a second — fast enough to prevent electrocution.",
+      "On construction sites, GFCIs are required on all temporary 120-volt, single-phase, 15-, 20-, and 30-amp receptacle outlets.",
+      "Test your GFCI before each use by pressing the 'test' button. The power should cut off immediately. Press 'reset' to restore power.",
+      "Portable (plug-in or cord-mounted) GFCIs are just as effective as panel-mounted breakers and are useful when working at outlets far from the panel.",
+      "GFCIs protect you from ground faults, but they do not protect against contact between hot and neutral conductors. They are one layer of protection, not the only one."
+    ],
+    "discussion_prompt": "Have you ever had a GFCI trip while using a tool — what happened, and what did you check before resetting it?"
+  },
+  {
+    "talk_number": 39,
+    "title": "Arc Flash and Electrical PPE",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.335",
+    "secondary_cfr": ["NFPA 70E"],
+    "talking_points": [
+      "An arc flash is an explosive release of energy caused by an electrical fault — temperatures can reach 35,000 degrees Fahrenheit, four times the surface of the sun.",
+      "NFPA 70E defines approach boundaries: limited, restricted, and prohibited. Only qualified workers may enter the restricted and prohibited boundaries.",
+      "Arc-rated clothing is categorized by PPE level (1 through 4) based on the incident energy at the working distance. Your site's arc flash analysis determines the required level.",
+      "Never wear synthetic fabrics (polyester, nylon) when working near energized equipment — they melt onto skin and worsen burn injuries. Use arc-rated cotton or treated fabrics.",
+      "Before working on or near energized equipment, review the arc flash label on the panel — it specifies the incident energy, working distance, and required PPE."
+    ],
+    "discussion_prompt": "Do you know the arc flash PPE category for the electrical panels in your work area — and where that label is?"
+  },
+  {
+    "talk_number": 40,
+    "title": "Overhead Power Line Awareness",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.1407-1411",
+    "secondary_cfr": ["1926.600(a)"],
+    "talking_points": [
+      "Overhead power line contact kills construction workers every year. Assume all lines are energized unless the utility confirms otherwise in writing.",
+      "For equipment operating near power lines under 50kV, the minimum clearance is 10 feet. For cranes, it is 20 feet regardless of voltage (up to 350kV).",
+      "Before bringing tall equipment — cranes, concrete pumps, excavators with raised booms — onto a site, survey the area for overhead lines and plan your approach.",
+      "If equipment contacts a power line: stay on the equipment, warn others to stay away, and call 911. If you must exit due to fire, jump clear without touching the equipment and the ground at the same time, then shuffle away.",
+      "Spotters, insulating links, and proximity alarms are additional layers of protection — but maintaining the required clearance distance is the primary defense."
+    ],
+    "discussion_prompt": "Has anyone here ever worked near overhead power lines — what precautions were taken, and were they enough?"
+  },
+  {
+    "talk_number": 41,
+    "title": "Respiratory Protection Program",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1910.134",
+    "secondary_cfr": ["1926.103"],
+    "talking_points": [
+      "A written respiratory protection program is required whenever respirators are used — even voluntarily for dust comfort. The program must include selection, fit testing, training, and medical evaluation.",
+      "Fit testing is mandatory before first use and annually thereafter. Quantitative or qualitative methods may be used, but the test must match the respirator model and size you will wear.",
+      "A medical evaluation must be completed before fit testing. A physician or licensed health care professional determines if you can safely wear a respirator.",
+      "Facial hair that interferes with the seal — beards, stubble, long sideburns — is prohibited when using tight-fitting respirators. No exceptions.",
+      "Know the difference between air-purifying respirators (filter the air) and atmosphere-supplying respirators (provide clean air). IDLH environments require SCBA or supplied-air with escape capability."
+    ],
+    "discussion_prompt": "When was your last fit test — and are you using the same make and model of respirator you were tested on?"
+  },
+  {
+    "talk_number": 42,
+    "title": "Silica Exposure — Construction (Table 1)",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Emphasis Program",
+    "primary_cfr": "1926.1153",
+    "secondary_cfr": ["1910.1053"],
+    "talking_points": [
+      "Respirable crystalline silica is found in concrete, brick, block, stone, morite, and sand. Cutting, drilling, grinding, or demolishing these materials releases silica dust.",
+      "The OSHA PEL for silica is 50 micrograms per cubic meter as an 8-hour time-weighted average. The action level is 25 µg/m³.",
+      "Construction employers can use Table 1 — a list of 18 common tasks with pre-defined engineering controls and respirator requirements. If you follow Table 1 fully, air monitoring is not required.",
+      "Common Table 1 controls include: wet cutting for saws, water sprays for jackhammers, and shrouds with HEPA vacuums for grinders.",
+      "Silicosis is irreversible lung scarring caused by silica exposure. It can develop after just a few years of unprotected exposure and there is no cure."
+    ],
+    "discussion_prompt": "What silica-generating tasks are we doing today — and are we following the Table 1 controls for each one?"
+  },
+  {
+    "talk_number": 43,
+    "title": "Silica Exposure — Common Tasks",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Emphasis Program",
+    "primary_cfr": "1926.1153 Table 1",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Concrete sawing (walk-behind or handheld): use a saw with integrated water delivery to the blade. If water is not feasible, use a HEPA vacuum shroud and an APF-10 respirator.",
+      "Jackhammering or chipping concrete: use a water spray to keep the point of impact wet. When outdoors, this may be sufficient — indoors, add respiratory protection.",
+      "Grinding or tuckpointing: use a grinder equipped with a dust shroud connected to a HEPA vacuum. This is one of the highest silica exposures in construction.",
+      "Sweeping dry concrete or masonry dust with a broom creates significant airborne silica. Use a HEPA vacuum or wet sweeping methods instead.",
+      "Housekeeping matters — silica dust that settles can become airborne again from foot traffic, wind, or equipment movement. Clean up as you go."
+    ],
+    "discussion_prompt": "Are all of our saws and grinders equipped with the right dust controls today — and is the water supply connected?"
+  },
+  {
+    "talk_number": 44,
+    "title": "Lead Exposure",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.62",
+    "secondary_cfr": ["1910.1025"],
+    "talking_points": [
+      "Lead exposure in construction most commonly occurs during demolition, paint removal, cutting or welding on painted steel, and bridge rehabilitation.",
+      "The OSHA PEL for lead is 50 micrograms per cubic meter (8-hour TWA). The action level is 30 µg/m³.",
+      "In construction, biological monitoring is required when airborne lead exceeds the action level. Medical removal is triggered at a blood lead level of 50 µg/dL.",
+      "Lead dust can be carried home on clothing and shoes, exposing your family. Use disposable coveralls, shower before leaving the site, and never take contaminated clothing home.",
+      "Eating, drinking, smoking, or applying cosmetics in lead-contaminated areas is prohibited. Wash your hands and face before any of these activities."
+    ],
+    "discussion_prompt": "Does anyone know if the structure we're working on has lead-based paint — and how would we find out?"
+  },
+  {
+    "talk_number": 45,
+    "title": "Asbestos Awareness",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.1101",
+    "secondary_cfr": ["1910.1001"],
+    "talking_points": [
+      "Asbestos is present in many buildings constructed before 1980 — in floor tiles, insulation, roofing, siding, pipe wrapping, ceiling tiles, and joint compound.",
+      "The OSHA PEL for asbestos is 0.1 fibers per cubic centimeter as an 8-hour TWA. There is no safe level of exposure.",
+      "In construction, asbestos work is classified from Class I (highest risk — removal of thermal system insulation) to Class IV (custodial activities near asbestos materials).",
+      "If you suspect you have disturbed asbestos-containing material — it may look like white or gray fibrous insulation — stop work immediately, isolate the area, and notify your supervisor.",
+      "Only trained and licensed workers may perform asbestos abatement. Awareness training is required for anyone who may encounter asbestos during their work."
+    ],
+    "discussion_prompt": "Has a pre-demolition asbestos survey been done for this project — and do you know where the asbestos-containing materials are?"
+  },
+  {
+    "talk_number": 46,
+    "title": "Hazard Communication (HazCom / GHS)",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1910.1200",
+    "secondary_cfr": ["1926.59"],
+    "talking_points": [
+      "Every hazardous chemical on site must have a Safety Data Sheet (SDS) that is readily accessible to every worker — physically or electronically, in a language they understand.",
+      "GHS labels include six key elements: product identifier, signal word (Danger or Warning), hazard statements, precautionary statements, supplier info, and pictograms.",
+      "Know the nine GHS pictograms — skull and crossbones (toxic), flame (flammable), exclamation mark (irritant), corrosion, exploding bomb, health hazard (carcinogen), gas cylinder, environment, and oxidizer.",
+      "Your employer must maintain a written HazCom program that includes a chemical inventory, SDS management, labeling procedures, and employee training.",
+      "GHS Revision 7 is coming — chemical manufacturers must update SDS and labels by May 2026, and employers must update workplace programs by November 2026."
+    ],
+    "discussion_prompt": "Can you find the SDS for the chemicals you're using today — and do you know how to read Section 2 (Hazard Identification)?"
+  },
+  {
+    "talk_number": 47,
+    "title": "Welding Fume Exposure",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.353",
+    "secondary_cfr": ["1910.252"],
+    "talking_points": [
+      "Welding fumes contain a mixture of metals and gases that can cause serious lung disease, neurological damage (from manganese), and cancer (from hexavalent chromium).",
+      "Ventilation — local exhaust or general mechanical — is required whenever welding is performed in enclosed or confined areas.",
+      "Welding on stainless steel, galvanized steel, or painted surfaces produces especially hazardous fumes. Respiratory protection is often required in addition to ventilation.",
+      "The PEL for hexavalent chromium is 5 µg/m³ — extremely low. Even short-duration stainless steel welding can exceed this limit without proper controls.",
+      "Position yourself upwind or to the side of the weld plume whenever possible. Your welding helmet does not protect you from fume inhalation."
+    ],
+    "discussion_prompt": "What material are we welding today, and do we have adequate ventilation — or do we need respiratory protection?"
+  },
+  {
+    "talk_number": 48,
+    "title": "Hydrogen Sulfide (H₂S) Awareness",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.1000 Table Z-2",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Hydrogen sulfide is a colorless gas that smells like rotten eggs at low concentrations — but at dangerous levels it deadens your sense of smell, so you cannot rely on odor as a warning.",
+      "OSHA limits are: 20 ppm ceiling, with a 50 ppm peak allowed for no more than 10 minutes. The IDLH level is 100 ppm.",
+      "H₂S is encountered in sewers, manholes, excavations near swamps or landfills, oil and gas operations, and wastewater treatment facilities.",
+      "H₂S is heavier than air and accumulates in low-lying areas — trenches, pits, and confined spaces. Always monitor before entering these areas.",
+      "At high concentrations, H₂S causes immediate unconsciousness and can be fatal within minutes. Rescue attempts without SCBA have killed more people than the original exposure."
+    ],
+    "discussion_prompt": "Are we working near any sources of H₂S today — and do we have functioning gas monitors on site?"
+  },
+  {
+    "talk_number": 49,
+    "title": "Carbon Monoxide Awareness",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.1000 Table Z-1",
+    "secondary_cfr": ["1926.55"],
+    "talking_points": [
+      "Carbon monoxide (CO) is colorless, odorless, and tasteless — you cannot detect it without a monitor. The OSHA PEL is 50 ppm as an 8-hour TWA.",
+      "The primary source on construction sites is gas-powered equipment — generators, concrete saws, compressors, and heaters — operated in enclosed or poorly ventilated spaces.",
+      "Symptoms of CO poisoning include headache, dizziness, nausea, confusion, and fatigue. These are easily mistaken for heat exhaustion or the flu.",
+      "Never operate gasoline or propane-powered equipment inside a building without adequate ventilation. Position exhaust to blow away from occupied areas and air intakes.",
+      "If a CO monitor alarms, evacuate the area immediately, get to fresh air, and report the reading. Do not re-enter until the source is identified and the area is ventilated."
+    ],
+    "discussion_prompt": "Do we have any gas-powered equipment running inside or near the building today — and where is the exhaust going?"
+  },
+  {
+    "talk_number": 50,
+    "title": "Heat Illness Prevention",
+    "hazard_category": "Heat/Cold",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Emphasis Program / Proposed Rule",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": ["Proposed Rule 2026"],
+    "talking_points": [
+      "Heat illness kills more construction workers than any other weather-related hazard. The three stages — heat cramps, heat exhaustion, heat stroke — can progress rapidly.",
+      "Water, rest, and shade are the foundation. Drink water every 15 to 20 minutes — do not wait until you are thirsty. Cold water is better than room-temperature water.",
+      "New workers and those returning from a week or more away must be acclimatized gradually — start with 20% of the normal workload on day one and increase by 20% each day.",
+      "Know the signs of heat stroke: confusion, slurred speech, loss of consciousness, hot dry skin, or seizures. This is a medical emergency — call 911 and cool the worker immediately.",
+      "OSHA's proposed rule would set a mandatory action trigger at a heat index of 80°F. Even before it takes effect, use that as your guideline."
+    ],
+    "discussion_prompt": "What's the heat index expected to be today — and where is our nearest shade and water station?"
+  },
+  {
+    "talk_number": 51,
+    "title": "Cold Stress — Frostbite and Hypothermia",
+    "hazard_category": "Heat/Cold",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Cold stress occurs when the body loses heat faster than it can produce it. Wind chill, wet clothing, and direct contact with cold surfaces accelerate heat loss.",
+      "Hypothermia begins when core body temperature drops below 95°F. Symptoms include uncontrollable shivering, confusion, slurred speech, and drowsiness.",
+      "Frostbite affects exposed skin — fingers, toes, ears, nose — and can cause permanent tissue damage. Skin turns white or grayish-yellow and feels waxy or numb.",
+      "Dress in layers: a moisture-wicking base layer, an insulating middle layer, and a wind/waterproof outer layer. Change out of wet clothing immediately.",
+      "Schedule warm-up breaks in a heated shelter and use the buddy system — cold workers may not recognize their own symptoms."
+    ],
+    "discussion_prompt": "What's the wind chill today, and do we have a heated break area nearby?"
+  },
+  {
+    "talk_number": 52,
+    "title": "Confined Space Entry — Construction",
+    "hazard_category": "Confined Space",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926 Subpart AA",
+    "secondary_cfr": ["1926.1201-1213"],
+    "talking_points": [
+      "A confined space is any area large enough for a worker to enter, with limited means of entry or exit, and not designed for continuous occupancy — manholes, vaults, tanks, pits, and silos are common examples.",
+      "In construction, the host employer must share known hazard information with the controlling contractor, who coordinates between all entry employers on site.",
+      "Before entry, a competent person must evaluate the space and determine if it is permit-required — meaning it has or could develop a hazardous atmosphere, engulfment risk, converging walls, or other serious hazards.",
+      "An attendant must be stationed outside the space at all times during entry. The attendant monitors conditions and can order evacuation but must never enter the space to attempt rescue.",
+      "Continuous atmospheric monitoring is required during the entire entry — not just before. Conditions inside a confined space can change rapidly."
+    ],
+    "discussion_prompt": "Who is our attendant today, and what is the procedure if conditions change while someone is inside the space?"
+  },
+  {
+    "talk_number": 53,
+    "title": "Confined Space Entry — General Industry",
+    "hazard_category": "Confined Space",
+    "duration_minutes": 10,
+    "applies_to": "General Industry",
+    "osha_priority": "",
+    "primary_cfr": "1910.146",
+    "secondary_cfr": [],
+    "talking_points": [
+      "A permit-required confined space has one or more of these characteristics: hazardous atmosphere, engulfment potential, converging walls or floors, or any other recognized serious hazard.",
+      "An entry permit must be completed before anyone enters and must include: the space, date, authorized entrants, attendants, entry supervisor, hazards, controls, and rescue provisions.",
+      "The entry supervisor is responsible for verifying that all permit conditions are met, that monitoring equipment is calibrated, and that rescue services are available.",
+      "Atmospheric testing must follow a specific order: oxygen first (19.5–23.5%), then combustible gases (below 10% LEL), then toxic gases (specific to the space).",
+      "If conditions change or any permit condition is violated, all entrants must exit immediately and the permit is canceled."
+    ],
+    "discussion_prompt": "Walk me through the entry permit for today's confined space — is every field filled out, and has the entry supervisor signed off?"
+  },
+  {
+    "talk_number": 54,
+    "title": "Atmospheric Monitoring for Confined Spaces",
+    "hazard_category": "Confined Space",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.1204(e)",
+    "secondary_cfr": ["1910.146(d)(5)"],
+    "talking_points": [
+      "Test the atmosphere before entry in this order: oxygen (19.5–23.5% is safe), then LEL (below 10% for entry), then specific toxics (H₂S, CO, etc.).",
+      "Monitor continuously during the entire entry, not just at the start. Conditions inside a space can change due to work activities, chemical reactions, or weather.",
+      "Calibrate your gas monitor daily per the manufacturer's instructions. Bump-test it with known calibration gas before each use.",
+      "Test at multiple levels — top, middle, and bottom of the space — because gases stratify by weight. Methane rises; H₂S sinks.",
+      "If any reading exceeds the action threshold, evacuate the space immediately, ventilate, and retest before re-entry."
+    ],
+    "discussion_prompt": "When was our gas monitor last calibrated, and who is responsible for monitoring the atmosphere during today's entry?"
+  },
+  {
+    "talk_number": 55,
+    "title": "Confined Space Rescue Planning",
+    "hazard_category": "Confined Space",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.1211",
+    "secondary_cfr": ["1910.146(d)(9)"],
+    "talking_points": [
+      "A rescue plan must be in place before any confined space entry begins. Rescue is not optional, and 'we'll figure it out' is not a plan.",
+      "Non-entry rescue — using a retrieval line and mechanical device to pull the entrant out from outside — is the preferred method whenever the space geometry allows it.",
+      "If entry rescue is required, the rescue team must practice making permit space rescues at least once every 12 months. The fire department may or may not meet this requirement — verify.",
+      "NFPA guidance recommends rescue capability within 4 minutes of notification. If your rescue service cannot meet this, you need a closer or on-site team.",
+      "More people have died trying to rescue workers from confined spaces than from the original incidents. Never enter a space to rescue someone without proper training, equipment, and atmosphere monitoring."
+    ],
+    "discussion_prompt": "If someone collapsed inside a confined space right now, what is our rescue plan — and can we execute it in under 4 minutes?"
+  },
+  {
+    "talk_number": 56,
+    "title": "Fire Prevention on Construction Sites",
+    "hazard_category": "Fire/Explosion",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.150",
+    "secondary_cfr": ["1926.151"],
+    "talking_points": [
+      "At least one fire extinguisher rated 2A or higher is required for every 3,000 square feet of building area on a construction site.",
+      "The travel distance to a Class A extinguisher must not exceed 100 feet. For Class B (flammable liquid) hazards, the distance is 50 feet.",
+      "All extinguishers must be visually inspected monthly and receive annual maintenance. Record the date and inspector's initials on the tag.",
+      "In construction, a 55-gallon water drum with two pails or a 1/2-inch garden-type hose discharging 5 gallons per minute may substitute for a 2A-rated extinguisher.",
+      "Keep access routes to extinguishers clear at all times. In an emergency, seconds matter — a blocked extinguisher is useless."
+    ],
+    "discussion_prompt": "Can you point to the nearest fire extinguisher from where you're standing right now — and is it the right type for this area?"
+  },
+  {
+    "talk_number": 57,
+    "title": "Fire Extinguisher Use and Inspection",
+    "hazard_category": "Fire/Explosion",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.157",
+    "secondary_cfr": ["1926.150"],
+    "talking_points": [
+      "Remember PASS: Pull the pin, Aim at the base of the fire, Squeeze the handle, and Sweep side to side.",
+      "In general industry, the maximum travel distance to a Class A extinguisher is 75 feet — shorter than the 100-foot construction allowance.",
+      "Monthly visual inspections check: pressure gauge in the green zone, pin and tamper seal intact, no visible damage or corrosion, and clear access.",
+      "Annual maintenance must be performed by a qualified professional per NFPA 10. Internal examination is required every 6 years.",
+      "Only fight a fire if it is small (incipient stage), you have a clear escape route, the extinguisher is the correct type, and you have been trained. Otherwise, evacuate and call 911."
+    ],
+    "discussion_prompt": "Has everyone on this crew been trained on how to use a fire extinguisher — and do you feel confident doing it?"
+  },
+  {
+    "talk_number": 58,
+    "title": "Hot Work Permits",
+    "hazard_category": "Fire/Explosion",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.352",
+    "secondary_cfr": ["1910.252"],
+    "talking_points": [
+      "A hot work permit is required before any welding, cutting, brazing, soldering, or grinding that produces sparks or open flame outside a designated hot work area.",
+      "Clear all combustible materials within a 35-foot radius of the hot work. If they cannot be moved, cover them with fire-resistant blankets or shields.",
+      "A fire watch must remain in the area during hot work and for at least 30 minutes after work is completed. The fire watch must have a charged extinguisher and know how to use it.",
+      "The hot work permit must be signed by an authorized person and posted at the work location. It is valid only for the shift and area specified.",
+      "Check the other side of walls, floors, and ceilings where you are performing hot work — sparks and heat can travel through openings, gaps, and conductive materials."
+    ],
+    "discussion_prompt": "Do we have a hot work permit for today's welding or cutting — and who is assigned as fire watch?"
+  },
+  {
+    "talk_number": 59,
+    "title": "Flammable and Combustible Liquids",
+    "hazard_category": "Fire/Explosion",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.152",
+    "secondary_cfr": ["1910.106"],
+    "talking_points": [
+      "A flammable liquid has a flash point below 100°F — this includes gasoline, acetone, and many solvents. A combustible liquid has a flash point at or above 100°F — like diesel fuel.",
+      "No more than 25 gallons of flammable liquids may be stored outside of an approved storage cabinet or room. Use approved safety cans with spring-loaded caps.",
+      "Bonding and grounding are required when dispensing flammable liquids from one container to another to prevent static discharge and ignition.",
+      "Store flammable liquids away from ignition sources, exits, and stairways. Maintain at least 20 feet between storage and buildings (or as specified by code).",
+      "Vapor is the hazard — flammable vapors are heavier than air and travel along the ground to ignition sources. Ventilate the area and eliminate all ignition sources within range."
+    ],
+    "discussion_prompt": "Where are our flammable liquids stored right now — and are they in approved containers with proper separation from ignition sources?"
+  },
+  {
+    "talk_number": 60,
+    "title": "Compressed Gas Cylinder Safety",
+    "hazard_category": "Fire/Explosion",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.350",
+    "secondary_cfr": ["1910.101"],
+    "talking_points": [
+      "Store and transport cylinders upright, secured with chains or straps to prevent them from falling. A falling cylinder can become a projectile if the valve breaks.",
+      "Valve caps must be in place whenever a cylinder is not in active use, being moved, or in storage. The cap protects the valve from damage.",
+      "Separate oxygen from fuel gases (acetylene, propane) by at least 20 feet or by a 5-foot-high noncombustible barrier with a 30-minute fire rating.",
+      "Never use oil, grease, or petroleum products on oxygen regulators, fittings, or valves. Oxygen under pressure reacts violently with hydrocarbons.",
+      "Never use a cylinder as a roller, support, or anything other than its intended purpose. Do not strike cylinders or use them near electrical arcs."
+    ],
+    "discussion_prompt": "Are our gas cylinders stored properly right now — upright, secured, caps on, and with proper separation between oxygen and fuel gas?"
+  },
+  {
+    "talk_number": 61,
+    "title": "LPG (Propane) Safety",
+    "hazard_category": "Fire/Explosion",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.153",
+    "secondary_cfr": ["1910.110"],
+    "talking_points": [
+      "Store propane cylinders at least 20 feet from combustible materials and any building opening (doors, windows, air intakes).",
+      "Check for leaks using soapy water on all connections. Never use an open flame to check for gas leaks.",
+      "Cylinders must not be filled beyond 80% capacity — liquid propane expands with temperature increases, and overfilling can cause a catastrophic release.",
+      "When using propane heaters in enclosed spaces, ensure adequate ventilation for both combustion air and CO exhaust. Follow manufacturer spacing requirements.",
+      "If you smell propane (it has an added odorant that smells like rotten eggs or skunk), shut off the source, ventilate the area, eliminate ignition sources, and evacuate."
+    ],
+    "discussion_prompt": "Are we using any propane on site today — and is the storage and ventilation set up correctly?"
+  },
+  {
+    "talk_number": 62,
+    "title": "Manual Lifting and Back Safety",
+    "hazard_category": "Ergonomic",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": ["1910.176"],
+    "talking_points": [
+      "OSHA does not set a specific weight limit, but the NIOSH lifting equation recommends a maximum of 51 pounds under ideal conditions — and conditions on a jobsite are rarely ideal.",
+      "Use proper technique: keep the load close to your body, bend at the knees (not the waist), keep your back straight, and avoid twisting while lifting.",
+      "When a load is too heavy or awkward for one person, use a team lift or mechanical aid — dolly, hand truck, hoist, or crane. Asking for help is not weakness.",
+      "Plan your lift before you pick anything up: know the weight, check your path for obstacles, and identify where you will set it down.",
+      "Repetitive lifting is cumulative — a 30-pound object lifted 100 times is as hard on your back as a few heavy lifts. Rotate tasks and take breaks."
+    ],
+    "discussion_prompt": "What's the heaviest thing you've lifted this week — and could a mechanical aid or team lift have made it safer?"
+  },
+  {
+    "talk_number": 63,
+    "title": "Material Storage and Housekeeping",
+    "hazard_category": "Ergonomic",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.250",
+    "secondary_cfr": ["1910.176"],
+    "talking_points": [
+      "Stack materials on level, solid surfaces. Limit stack heights per material type: lumber no more than 20 feet, bricks no more than 7 feet.",
+      "Secure round stock (pipe, rebar, conduit) with blocking or chocks to prevent rolling. One loose piece at the bottom can bring down an entire stack.",
+      "Keep aisles and access routes clear at all times — both for daily work and for emergency egress. A cluttered path is a tripping hazard and a rescue obstacle.",
+      "Separate incompatible materials: keep oxidizers away from flammables, acids away from bases, and chemicals away from food and water supplies.",
+      "Good housekeeping prevents accidents. Clean up as you go — don't wait for the end of the shift. Nails, scraps, and debris cause trips and punctures."
+    ],
+    "discussion_prompt": "Walk through your work area mentally — is there anything stacked or stored right now that could fall, roll, or block an exit?"
+  },
+  {
+    "talk_number": 64,
+    "title": "Rigging Inspection and Sling Safety",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.251",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Inspect all slings before each use. For wire rope slings, look for 10 or more broken wires in one rope lay, kinking, crushing, corrosion, heat damage, or bird-caging.",
+      "Synthetic web slings: look for cuts, burns, melting, acid or alkali damage, and worn or broken stitching. Remove from service if any are found.",
+      "Chain slings: check for stretch (links elongated by more than 5%), gouges, nicks, corrosion, cracks, or bent links.",
+      "Always use softeners or corner protectors on sharp edges. A single lift over an unprotected edge can destroy a synthetic sling.",
+      "The rated capacity on the tag is for a vertical hitch. As the sling angle decreases, the capacity decreases — at 60 degrees from horizontal, capacity is reduced to 87%; at 45 degrees, to 71%."
+    ],
+    "discussion_prompt": "Pick up the nearest sling and inspect it right now — does it pass inspection, or should it be taken out of service?"
+  },
+  {
+    "talk_number": 65,
+    "title": "PPE — Hazard Assessment and Selection",
+    "hazard_category": "PPE",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1926.95",
+    "secondary_cfr": ["1910.132"],
+    "talking_points": [
+      "Your employer must conduct a written hazard assessment for each work area and task to determine what PPE is required. This is not optional.",
+      "As of January 2025, all PPE in construction must properly fit each worker — the days of one-size-fits-all are over. Harnesses, gloves, eye protection, and more must be individually sized.",
+      "PPE is the last line of defense, not the first. Engineering and administrative controls should reduce the hazard before PPE is relied upon.",
+      "Your employer must pay for most required PPE. Exceptions include prescription safety glasses, everyday steel-toed boots (if allowed for personal use), and weather gear.",
+      "Inspect your PPE before every use. Damaged PPE provides a false sense of security — it may fail exactly when you need it most."
+    ],
+    "discussion_prompt": "Does all of your PPE fit properly right now — or is anything too loose, too tight, or uncomfortable enough that you avoid wearing it?"
+  },
+  {
+    "talk_number": 66,
+    "title": "Eye and Face Protection",
+    "hazard_category": "PPE",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "Top 10 Most Cited",
+    "primary_cfr": "1926.102",
+    "secondary_cfr": ["1910.133"],
+    "talking_points": [
+      "All safety eyewear must be ANSI Z87.1 rated — look for the 'Z87' marking on the lens or frame. Non-rated sunglasses are not safety glasses.",
+      "Match the protection to the hazard: safety glasses with side shields for impact, goggles for chemical splash, face shields over glasses for grinding.",
+      "For welding, use the correct shade number: Shade 10-14 for arc welding (depending on amperage), Shade 3-6 for cutting and brazing.",
+      "Safety glasses must fit snugly. Gaps at the top, bottom, or sides allow debris to enter. If your glasses slide down your nose, get a better-fitting pair.",
+      "If you get something in your eye, use the nearest eyewash station. Do not rub your eye. Flush for at least 15 minutes and seek medical attention."
+    ],
+    "discussion_prompt": "Check your safety glasses right now — are they Z87 rated, and do they fit without gaps?"
+  },
+  {
+    "talk_number": 67,
+    "title": "Hand Protection — Glove Selection",
+    "hazard_category": "PPE",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.95",
+    "secondary_cfr": ["1910.138"],
+    "talking_points": [
+      "Match the glove to the hazard: cut-resistant gloves for sharp materials, chemical-resistant gloves for solvents and acids, insulated gloves for heat, and leather for general construction.",
+      "Cut-resistant gloves are rated A1 through A9 under ANSI/ISEA 105 — know the cut level required for your task. Sheet metal and glass typically require A4 or higher.",
+      "Chemical gloves must match the specific chemical — no single glove material resists everything. Check the SDS for glove recommendations.",
+      "Do NOT wear gloves near rotating machinery, drill presses, or lathes. A glove can be caught and pull your hand into the machine faster than you can react.",
+      "Inspect gloves before use: look for tears, holes, thinning, and degradation. Replace them when they no longer provide the intended protection."
+    ],
+    "discussion_prompt": "Are you wearing the right type of glove for the work you're doing today — and what hazard is it protecting you from?"
+  },
+  {
+    "talk_number": 68,
+    "title": "Hearing Protection",
+    "hazard_category": "PPE",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.101",
+    "secondary_cfr": ["1910.95"],
+    "talking_points": [
+      "Hearing protection is required in construction when noise exceeds 90 dBA as an 8-hour TWA. In general industry, a hearing conservation program begins at the 85 dBA action level.",
+      "Hearing loss from noise is permanent and irreversible. By the time you notice it, significant damage has already occurred.",
+      "The Noise Reduction Rating (NRR) on the package is tested in a lab. In practice, subtract 7 from the NRR and divide by 2 to estimate real-world protection.",
+      "Foam earplugs must be rolled tightly, inserted deep into the ear canal, and held until they expand. Poorly inserted plugs can reduce protection by 50% or more.",
+      "If you have to shout to be heard by someone 3 feet away, the noise level is likely above 85 dBA and you should be wearing hearing protection."
+    ],
+    "discussion_prompt": "Can you hear normal conversation right now without raising your voice — or are we in an area where hearing protection should be worn?"
+  },
+  {
+    "talk_number": 69,
+    "title": "Foot Protection",
+    "hazard_category": "PPE",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.96",
+    "secondary_cfr": ["1910.136"],
+    "talking_points": [
+      "Safety footwear must meet ASTM F2413 standards. Look for the I/75 (impact) and C/75 (compression) ratings stamped inside the boot.",
+      "For work near electrical hazards, wear EH-rated boots that provide insulation against accidental contact with energized circuits up to 600 volts.",
+      "Metatarsal guards provide additional protection for the top of the foot and are recommended for heavy material handling, steel erection, and demolition.",
+      "Slip-resistant soles are essential for wet, oily, or smooth surfaces. Check the outsole condition regularly — worn treads offer little traction.",
+      "Replace safety boots when the sole separates, the toe cap is exposed, or the leather is torn or cracked. Worn-out boots are not safety boots."
+    ],
+    "discussion_prompt": "Look at the soles of your boots — do they still have good tread, and are they the right type for the surfaces you're working on today?"
+  },
+  {
+    "talk_number": 70,
+    "title": "High-Visibility and Reflective Clothing",
+    "hazard_category": "PPE",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.201",
+    "secondary_cfr": ["ANSI 107"],
+    "talking_points": [
+      "ANSI 107 defines three classes of high-visibility garments. Class 2 is standard for most construction sites. Class 3 is required for roadway work or low-light conditions.",
+      "High-vis garments work through two mechanisms: fluorescent fabric for daytime visibility and retroreflective strips for nighttime visibility. Both must be maintained.",
+      "Faded fluorescent fabric loses its effectiveness. If your vest has turned from bright yellow-green to a pale or washed-out color, it needs to be replaced.",
+      "Retroreflective strips must be clean and intact. Dirt, paint, or damage reduces reflectivity significantly — test by shining a flashlight on the strips.",
+      "High-visibility clothing must be worn as the outermost layer. Wearing a jacket over your vest defeats the purpose."
+    ],
+    "discussion_prompt": "Is everyone on the crew wearing the correct class of high-vis for today's work conditions?"
+  },
+  {
+    "talk_number": 71,
+    "title": "Fall Protection PPE — Harness Inspection",
+    "hazard_category": "PPE",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.502(d)",
+    "secondary_cfr": ["1910.140"],
+    "talking_points": [
+      "Inspect your harness before every use: check all webbing for cuts, burns, fraying, chemical damage, UV degradation, and broken stitching.",
+      "Check all buckles, D-rings, and grommets for cracks, distortion, sharp edges, and corrosion. If hardware is bent or cracked, remove the harness from service.",
+      "The dorsal D-ring (center of the back, between the shoulder blades) is the primary fall arrest attachment point. Other D-rings are for positioning or retrieval only.",
+      "A harness must properly fit each worker per the 2025 PPE fit rule. A too-loose harness can shift during a fall and cause injury; too-tight restricts movement and blood flow.",
+      "Any harness that has arrested a fall must be immediately removed from service and inspected by a competent person. Most manufacturers recommend replacement after any fall arrest."
+    ],
+    "discussion_prompt": "Put your harness on right now and have a partner check the fit — is it snug without restricting your movement?"
+  },
+  {
+    "talk_number": 72,
+    "title": "Concrete and Masonry — Formwork",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.703",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Formwork and shoring must be designed by a qualified person to support all anticipated loads — wet concrete, workers, equipment, and impact loads.",
+      "Do not place concrete into forms until the shoring system has been inspected and verified by a competent person.",
+      "Formwork must not be stripped until the concrete has reached sufficient strength to support its own weight and any construction loads. Follow the engineer's stripping schedule.",
+      "Workers must not stand on or work under formwork that is being erected, stripped, or could collapse. Barricade the area below active form operations.",
+      "During cold weather, concrete curing is slower — do not assume the standard stripping schedule applies. Consult with the engineer if temperatures drop below 40°F."
+    ],
+    "discussion_prompt": "Has the shoring been inspected today, and do we have the engineer's stripping schedule posted?"
+  },
+  {
+    "talk_number": 73,
+    "title": "Concrete and Masonry — Post-Tensioning",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.703(d)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Post-tensioning involves stressing steel strands or tendons to extremely high forces. A strand that breaks or releases can travel hundreds of feet at lethal velocity.",
+      "No workers may stand behind stressing jacks during tensioning operations. The area behind the jack must be barricaded and cleared.",
+      "Follow the engineer's stressing sequence exactly. Out-of-sequence tensioning can cause uneven forces that lead to structural failure or strand blowout.",
+      "Inspect anchorage hardware before tensioning — damaged wedges, cracked bearing plates, or misaligned strands can cause failures under load.",
+      "After tensioning is complete and strands are cut, the remaining tail must be protected to prevent contact injuries from sharp wire ends."
+    ],
+    "discussion_prompt": "Is the barricade set up behind all stressing jacks, and does everyone know to stay out of the strand path?"
+  },
+  {
+    "talk_number": 74,
+    "title": "Demolition Safety",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.850-860",
+    "secondary_cfr": [],
+    "talking_points": [
+      "An engineering survey must be completed before demolition begins, documenting the structure's condition, construction type, and any hazardous materials present.",
+      "Brace or shore adjacent structures and walls that may be affected by the demolition. Unplanned collapse of an adjacent wall is one of the leading causes of demolition fatalities.",
+      "Demolish structures systematically — work from top to bottom, outside to inside. Never undercut a load-bearing element.",
+      "Debris chutes are required when dropping material more than 20 feet. The area around the discharge end must be barricaded and a warning sign posted.",
+      "Utilities must be disconnected and verified dead before demolition. This includes electricity, gas, water, sewer, steam, and telecommunications."
+    ],
+    "discussion_prompt": "Have all utilities been confirmed disconnected for today's demolition area — and who verified it?"
+  },
+  {
+    "talk_number": 75,
+    "title": "Assured Equipment Grounding Conductor Program (AEGCP)",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.404(b)(1)(iii)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "An AEGCP is an alternative to GFCIs for protecting workers from ground faults on construction sites. Your site must use one or the other — not neither.",
+      "Under an AEGCP, all cord sets and receptacles must be visually inspected daily for damage, and defective equipment must be removed from service immediately.",
+      "Continuity and grounding conductor tests must be performed before first use on site and at least every three months thereafter.",
+      "A written program must be in place, and a competent person must be designated to implement and maintain the testing schedule.",
+      "Test records must be kept and made available to OSHA upon request. If you cannot show documentation of testing, the AEGCP is not compliant."
+    ],
+    "discussion_prompt": "Is this site using GFCIs, an AEGCP, or both — and when was the last time grounding tests were performed?"
+  },
+  {
+    "talk_number": 76,
+    "title": "Working on or Near Energized Equipment",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.333",
+    "secondary_cfr": ["NFPA 70E"],
+    "talking_points": [
+      "The default position is to de-energize before working. Live work is only permitted when de-energizing would create a greater hazard or is infeasible.",
+      "Only qualified electrical workers may work on or near exposed energized parts. A qualified worker must understand the specific hazards and safe work practices for the voltage involved.",
+      "NFPA 70E defines approach boundaries: limited, restricted, and prohibited. The distance depends on the voltage. Cross the restricted boundary only with proper PPE and an energized work permit.",
+      "An energized electrical work permit must be completed and approved before any justified live work. The permit documents the hazard analysis, PPE required, and safe work procedures.",
+      "Insulated tools rated for the voltage must be used when working near energized parts. Standard tools can become conductors."
+    ],
+    "discussion_prompt": "Is there any energized work planned today — and if so, has an energized work permit been completed?"
+  },
+  {
+    "talk_number": 77,
+    "title": "Hand and Power Tool Safety",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.301-307",
+    "secondary_cfr": ["1910.242-244"],
+    "talking_points": [
+      "Use the right tool for the job. Improvising — using a wrench as a hammer or a screwdriver as a pry bar — damages the tool and creates hazards.",
+      "All power tools must have guards in place. Do not remove, modify, or bypass the guard to gain access or speed.",
+      "Electric power tools must be grounded (three-prong plug) or double-insulated (marked with a square-within-a-square symbol). Never remove the ground pin.",
+      "Inspect tools before each use: check for cracked housings, frayed cords, dull blades, loose handles, and mushroomed heads on chisels and punches.",
+      "Disconnect power tools before changing blades, bits, or accessories. For pneumatic tools, disconnect the air supply first."
+    ],
+    "discussion_prompt": "Is there a damaged or worn-out tool in your kit right now that should be replaced?"
+  },
+  {
+    "talk_number": 78,
+    "title": "Powder-Actuated Tools",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.302(e)",
+    "secondary_cfr": ["1910.243(d)"],
+    "talking_points": [
+      "Only trained operators may use powder-actuated tools. You must carry your operator's card when using the tool.",
+      "Test-fire into a test material at the beginning of each shift to verify the tool is functioning properly.",
+      "Never point a powder-actuated tool at anyone, loaded or unloaded. Treat it with the same respect as a firearm.",
+      "Do not use in explosive or flammable atmospheres. The charge can ignite flammable vapors.",
+      "A guard is required on the muzzle end to protect against flying fragments. Check that it is intact before each use."
+    ],
+    "discussion_prompt": "Is the operator using this tool today trained and carrying their card — and have they test-fired the tool this shift?"
+  },
+  {
+    "talk_number": 79,
+    "title": "Pneumatic Tools",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.302(b)",
+    "secondary_cfr": ["1910.243(b)"],
+    "talking_points": [
+      "All pneumatic hose connections must be secured with safety clips, wire, or other positive locking devices to prevent accidental disconnection under pressure.",
+      "Whip checks (safety cables across hose couplings) are required to restrain hoses if a connection fails. An unrestrained pressurized hose is a serious struck-by hazard.",
+      "Air pressure for cleaning purposes must not exceed 30 psi — and even then, a chip guard and appropriate PPE (safety glasses minimum) are required.",
+      "Never carry a pneumatic nailer with your finger on the trigger. Use bump-fire mode only when approved by site policy and never for overhead or awkward-angle work.",
+      "Disconnect the air supply before performing any maintenance, clearing jams, or adjusting the tool."
+    ],
+    "discussion_prompt": "Are all of our pneumatic hose connections secured with whip checks today?"
+  },
+  {
+    "talk_number": 80,
+    "title": "Bench Grinders and Cut-Off Saws",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.215",
+    "secondary_cfr": ["1926.303"],
+    "talking_points": [
+      "Perform a ring test on all abrasive wheels before mounting. A clear ring means the wheel is sound; a dull thud means it is cracked and must be discarded.",
+      "The work rest must be within 1/8 inch of the wheel. The tongue guard must be within 1/4 inch. Adjust these before starting — not while the wheel is spinning.",
+      "Never exceed the RPM rating on the wheel. A wheel spinning above its rated speed can shatter with explosive force.",
+      "Wear a face shield over safety glasses when grinding. Safety glasses alone do not protect against a wheel burst or large flying particles.",
+      "Let the grinder reach full speed before applying material to the wheel. Do not force material into the wheel — let the abrasive do the work."
+    ],
+    "discussion_prompt": "When was the last time the work rest and tongue guard on our bench grinder were adjusted — and are they within spec?"
+  },
+  {
+    "talk_number": 81,
+    "title": "Chainsaws and Brush Clearing",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.266",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Required PPE for chainsaw operation includes chainsaw chaps or pants, a face screen or safety glasses, hearing protection, hard hat, and gloves.",
+      "Test the chain brake before each use — it must stop the chain immediately. The chain brake is your primary protection against kickback.",
+      "Drop-starting a chainsaw (holding it in the air and pulling the cord) is prohibited. Start it on the ground with the chain brake engaged.",
+      "Maintain a two-person awareness zone — know where others are working and maintain safe distances. A chain can throw debris 50 feet or more.",
+      "Watch for spring poles (bent trees under tension), dead limbs overhead (widowmakers), and lean direction before making any cut."
+    ],
+    "discussion_prompt": "Is everyone wearing the correct PPE for today's cutting work — including chaps and face protection?"
+  },
+  {
+    "talk_number": 82,
+    "title": "Backing and Spotters",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.601",
+    "secondary_cfr": ["1926.602"],
+    "talking_points": [
+      "A spotter is required whenever the vehicle operator's view to the rear is obstructed. The spotter must be in the operator's line of sight at all times.",
+      "Establish clear hand signals or radio communication between the spotter and the operator before backing begins. Both must agree on the signals.",
+      "Backup alarms must be functional on all construction vehicles. Test them at the beginning of each shift.",
+      "Pedestrians must stay outside the backing zone. If you cannot see the operator's mirrors, the operator cannot see you.",
+      "Never walk behind a vehicle that is running or has its reverse lights on. Assume the vehicle will move."
+    ],
+    "discussion_prompt": "Do we have spotters assigned for today's backing operations — and have signals been reviewed?"
+  },
+  {
+    "talk_number": 83,
+    "title": "Dump Truck and Haul Road Safety",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.601",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Berms or guardrails at least mid-axle height are required along the edges of haul roads where a drop-off exists.",
+      "Check overhead clearance before raising the dump bed — contact with power lines, bridges, or structures is a leading cause of dump truck fatalities.",
+      "Walk around the truck before operating. Check tires, brakes, lights, mirrors, and the tailgate. Know the truck's blind spots.",
+      "No riders are permitted in the bed of a dump truck. Material can shift during transport and crush a person.",
+      "On grades, use the appropriate gear and maintain safe following distances. A loaded dump truck takes significantly longer to stop."
+    ],
+    "discussion_prompt": "Are there any overhead hazards on our haul route today — power lines, low clearances, or overhanging structures?"
+  },
+  {
+    "talk_number": 84,
+    "title": "Work Zone Traffic Control (Flagging)",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.201",
+    "secondary_cfr": ["MUTCD"],
+    "talking_points": [
+      "Only trained flaggers may direct traffic in work zones. Training must cover the MUTCD requirements for flagging operations.",
+      "Flaggers must wear Class 2 high-vis vests during the day and Class 3 at night, with retroreflective material visible from all directions.",
+      "Use a STOP/SLOW paddle — it is the standard traffic control device. Flags are only permitted for emergency situations.",
+      "Position yourself where you are visible to approaching traffic and have an escape route if a vehicle does not stop. Never turn your back on traffic.",
+      "Flagging is one of the most dangerous tasks in construction. Stay alert, stay sober, and do not use your phone while directing traffic."
+    ],
+    "discussion_prompt": "Does our flagger today have an escape route identified — and can approaching drivers see them from a safe stopping distance?"
+  },
+  {
+    "talk_number": 85,
+    "title": "Mobile Crane Setup and Inspection",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.1400-1441",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Set up the crane on level, firm ground. Outriggers must be fully extended and set on adequate blocking or cribbing — never on soft or undermined ground.",
+      "Review the load chart before every lift. The rated capacity depends on the configuration: boom length, radius, quadrant of operation, and whether outriggers are extended.",
+      "A pre-shift visual inspection by the operator is required. Monthly inspections by a competent person and annual inspections by a qualified person must also be documented.",
+      "Check the swing radius — the area the counterweight sweeps must be barricaded or otherwise protected to prevent workers from being struck or crushed.",
+      "Before the first lift, verify that all safety devices — LMI (load moment indicator), anti-two-block, boom angle indicator — are functional."
+    ],
+    "discussion_prompt": "Has the load chart been reviewed for today's heaviest planned lift — and are the outriggers on adequate support?"
+  },
+  {
+    "talk_number": 86,
+    "title": "Mast Climbing Work Platforms",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.451",
+    "secondary_cfr": ["1926.452(y)"],
+    "talking_points": [
+      "Mast climbing platforms must be erected, operated, and dismantled according to the manufacturer's instructions by trained workers.",
+      "Daily inspections must include mast connections, platform decking, guardrails, drive systems, and safety devices (overload sensors, wind speed limits).",
+      "Observe the manufacturer's wind speed limits — most platforms must be lowered when wind exceeds 25-30 mph, depending on the model.",
+      "The base must be on a firm, level foundation with adequate capacity. Tie-backs to the structure are required at the intervals specified by the manufacturer.",
+      "Workers on the platform must be trained in its operation and emergency procedures, including manual lowering in case of power failure."
+    ],
+    "discussion_prompt": "What are the wind speed limits for the mast climber we're using — and what is the procedure if the wind picks up?"
+  },
+  {
+    "talk_number": 87,
+    "title": "System Scaffolds (Frame Scaffolds)",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.452(c)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Frame scaffolds must be erected per the manufacturer's instructions with cross-bracing installed on both sides at every level.",
+      "Base plates and mudsills are required. The mudsill must distribute the load to prevent the scaffold from sinking into soft ground.",
+      "Scaffold must be plumb and level. If the base is out of level, the entire structure above is compromised — do not use shims or scraps to level frames.",
+      "A competent person must inspect frame scaffolds before each work shift and after any event that could affect structural integrity (wind, impact, rain).",
+      "Do not exceed the rated load capacity. This includes workers, tools, and materials on each platform level."
+    ],
+    "discussion_prompt": "Is the scaffold we're using today plumb and level — and when was the last competent person inspection?"
+  },
+  {
+    "talk_number": 88,
+    "title": "Housekeeping on Construction Sites",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.25",
+    "secondary_cfr": ["1926.250"],
+    "talking_points": [
+      "Good housekeeping prevents injuries. Trips, slips, and falls from poor housekeeping are among the most common construction injuries.",
+      "Remove or bend down protruding nails from boards and formwork as you go. A nail puncture through a boot can cause a serious infection.",
+      "Keep walkways, stairways, and access routes clear of debris, tools, cords, and stored materials at all times.",
+      "Use designated waste containers — separate construction debris from hazardous waste. Do not allow waste to accumulate in work areas.",
+      "Clean up at the end of every task, not just at the end of the shift. The worker who comes after you deserves a clean, safe work area."
+    ],
+    "discussion_prompt": "Look around your work area right now — is there anything that could cause a trip, slip, or fall that we should address before we start?"
+  },
+  {
+    "talk_number": 89,
+    "title": "Slips, Trips, and Falls — Walking Surfaces",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.22",
+    "secondary_cfr": ["1926.25"],
+    "talking_points": [
+      "Walking surfaces must be kept dry, clean, and in good repair. Wet floors must be marked or barricaded until they are dry or mats are placed.",
+      "Cord management prevents trips — route cords overhead, through conduit, or use cord covers. Never run cords across walkways without protection.",
+      "Adequate lighting is essential. If you cannot see the walking surface clearly, you cannot identify hazards. Report burned-out lights immediately.",
+      "Wear footwear appropriate for the surface — slip-resistant soles for wet or oily areas, treaded boots for uneven terrain.",
+      "Report damaged flooring, raised thresholds, loose carpet, broken tiles, and uneven surfaces immediately. A quick repair prevents a serious injury."
+    ],
+    "discussion_prompt": "What's the most common tripping hazard you encounter in your daily work — and how can we eliminate it?"
+  },
+  {
+    "talk_number": 90,
+    "title": "Stacking and Storage — Material Yards",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.250",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Lumber must be stacked no higher than 20 feet and cross-piled to create stability. Remove nails from used lumber before stacking.",
+      "Brick stacks must not exceed 7 feet in height. Taper the stack back 2 inches for every foot above 4 feet.",
+      "Round stock — pipe, rebar, conduit — must be blocked or chocked to prevent rolling. One displaced chock can release an entire pile.",
+      "Never lean materials against walls or structures where they could slide or be knocked over. Secure them flat or in racks.",
+      "Leave sufficient aisle space between stacks for workers and equipment to pass safely — typically at least 3 feet, more for forklift access."
+    ],
+    "discussion_prompt": "Is there any material in our storage area that could fall, roll, or collapse if bumped — and what should we do about it?"
+  },
+  {
+    "talk_number": 91,
+    "title": "Noise Exposure and Hearing Conservation",
+    "hazard_category": "Health",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.95",
+    "secondary_cfr": ["1926.52"],
+    "talking_points": [
+      "The OSHA PEL for noise is 90 dBA over an 8-hour TWA with a 5 dB exchange rate — meaning every 5 dB increase halves the allowable exposure time. At 100 dBA, you have 2 hours.",
+      "In general industry, the 85 dBA action level triggers a full hearing conservation program including monitoring, audiometric testing, and training. Construction has no equivalent requirement.",
+      "Impulse noise (nail guns, powder-actuated tools, explosions) must not exceed 140 dB peak sound pressure level.",
+      "Noise-induced hearing loss is cumulative and permanent. It happens gradually — most workers do not notice until significant damage has occurred.",
+      "Engineering controls (quieter equipment, barriers, isolation) are preferred over relying solely on hearing protection. But when PPE is needed, insert it properly every time."
+    ],
+    "discussion_prompt": "What are the loudest tasks we perform regularly — and are we using hearing protection consistently for all of them?"
+  },
+  {
+    "talk_number": 92,
+    "title": "Bloodborne Pathogens",
+    "hazard_category": "Health",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.1030",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Bloodborne pathogens — including HIV, Hepatitis B, and Hepatitis C — can be transmitted through contact with infected blood or other potentially infectious materials.",
+      "Practice universal precautions: treat all blood and body fluids as potentially infectious regardless of the source.",
+      "Your employer must have a written exposure control plan and must offer the Hepatitis B vaccine series to workers with occupational exposure — at no cost.",
+      "Use appropriate PPE — gloves at minimum — when providing first aid or cleaning up blood. Wash hands immediately after removing gloves.",
+      "Dispose of contaminated sharps in puncture-resistant, labeled containers. Never recap, bend, or break needles."
+    ],
+    "discussion_prompt": "Where is the nearest first aid kit with gloves, and do you know the procedure if you're exposed to blood on the job?"
+  },
+  {
+    "talk_number": 93,
+    "title": "Sanitation — Toilets, Water, Hygiene",
+    "hazard_category": "Health",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.51",
+    "secondary_cfr": ["1910.141"],
+    "talking_points": [
+      "At least one toilet facility is required for every 20 workers on a construction site. Facilities must be maintained in a sanitary condition.",
+      "Potable drinking water must be provided and clearly labeled. Non-potable water (used for dust control, cleaning, etc.) must be labeled to prevent drinking.",
+      "Single-use drinking cups must be provided with the water supply. Shared cups or bottles spread illness.",
+      "Handwashing facilities must be available. At minimum, hand sanitizer may be used, but soap and water is preferred — especially before eating and after using the restroom.",
+      "On sites with hazardous material exposure (lead, silica, chemicals), workers must wash hands and face before eating, drinking, or smoking."
+    ],
+    "discussion_prompt": "Are our portable toilets clean and adequately stocked — and do we have enough for the number of workers on site?"
+  },
+  {
+    "talk_number": 94,
+    "title": "Crystalline Silica Medical Surveillance",
+    "hazard_category": "Health",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.1153(h)",
+    "secondary_cfr": ["1910.1053(i)"],
+    "talking_points": [
+      "Medical surveillance is required for workers exposed above the action level (25 µg/m³) for 30 or more days per year.",
+      "The initial exam must occur within 30 days of assignment and includes a medical history, physical exam, chest X-ray, and pulmonary function test.",
+      "Follow-up exams are required every three years for workers who remain exposed above the action level.",
+      "The examining physician must be informed of the worker's exposure level, respirator use, and the specific tasks performed.",
+      "Workers must receive a copy of the physician's written medical opinion. If the doctor recommends limitations, the employer must accommodate them."
+    ],
+    "discussion_prompt": "Are there workers on this crew who should be enrolled in silica medical surveillance — and is everyone current on their exams?"
+  },
+  {
+    "talk_number": 95,
+    "title": "Pile Driving Safety",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.603",
+    "secondary_cfr": [],
+    "talking_points": [
+      "A competent person must inspect the pile driving equipment — hammer, leads, helmet, and cap — daily before use.",
+      "No workers may be under the hammer or pile at any time during driving operations. Clear the area and establish exclusion zones.",
+      "Adequate blocking must be used to support piles during positioning to prevent them from falling before driving begins.",
+      "Hearing protection is mandatory — pile driving generates extreme noise levels well above the 90 dBA PEL.",
+      "Watch for bounceback and misalignment — a pile that shifts during driving can release suddenly and strike nearby workers."
+    ],
+    "discussion_prompt": "Is the exclusion zone set up for today's pile driving — and is everyone wearing hearing protection?"
+  },
+  {
+    "talk_number": 96,
+    "title": "Marine and Barge Operations",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.605",
+    "secondary_cfr": ["1926.106"],
+    "talking_points": [
+      "Personal flotation devices (PFDs) are required for workers over or adjacent to water where the danger of drowning exists — generally within 25 feet of water's edge.",
+      "Ring buoys with at least 90 feet of line must be provided every 200 feet along the water's edge.",
+      "A rescue skiff must be immediately available at locations where workers are over water. 'Available' means crewed, fueled, and ready to deploy.",
+      "Barge decks are walking-working surfaces — keep them clear of tripping hazards, and ensure guardrails are in place on open edges.",
+      "Weather and water conditions can change quickly. Monitor forecasts and suspend operations during severe weather, high winds, or dangerous currents."
+    ],
+    "discussion_prompt": "Is everyone near the water wearing a PFD right now — and where is the nearest ring buoy and rescue skiff?"
+  },
+  {
+    "talk_number": 97,
+    "title": "Underground Construction (Tunneling)",
+    "hazard_category": "Confined Space",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.800",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Check for hazardous gases before entry and continuously during work. Oxygen must be at least 19.5%, and H₂S action level in tunnels is 5 ppm.",
+      "An emergency escape plan must be established, communicated, and drilled. Every worker must know the primary and secondary escape routes.",
+      "Fire-resistant hydraulic fluid must be used in underground equipment. A hydraulic line burst with standard fluid in an enclosed space creates an immediate fire risk.",
+      "Ground support and ventilation systems must be inspected regularly by a competent person. Changing ground conditions require reassessment.",
+      "Communication systems must be maintained between the surface and the underground work area at all times."
+    ],
+    "discussion_prompt": "Can everyone identify the emergency exits and communication points in our underground work area?"
+  },
+  {
+    "talk_number": 98,
+    "title": "Steel Erection — General",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.750-761",
+    "secondary_cfr": [],
+    "talking_points": [
+      "A site-specific erection plan must be prepared before steel erection begins, addressing the sequence of erection, crane procedures, and fall protection.",
+      "Anchor bolts: a minimum of four bolts per column must be installed in the concrete pier or footing before columns are set.",
+      "No loads may be placed on the steel structure until connections are secured and sufficient structural stability has been achieved.",
+      "Column splices must be designed to resist construction loads. Temporary guying, bracing, or shoring may be required until permanent connections are completed.",
+      "All workers involved in steel erection must receive training specific to the hazards of steel erection — this is in addition to general fall protection training."
+    ],
+    "discussion_prompt": "Has the erection plan been reviewed with the crew today — and does everyone understand the sequence?"
+  },
+  {
+    "talk_number": 99,
+    "title": "Concrete Pumping Operations",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.703",
+    "secondary_cfr": ["1926.1400"],
+    "talking_points": [
+      "Before positioning the pump boom, survey the area for overhead power lines. The boom must maintain required clearance distances at all times.",
+      "Pipeline restraints are required at bends and connections to prevent whipping if a coupling fails under pressure.",
+      "Clean-out is one of the most hazardous phases — compressed air used to purge the line can propel a sponge ball or concrete with lethal force. Clear the discharge area.",
+      "Operators must be trained on the specific pump model, including emergency shutdown procedures and boom operation limits.",
+      "Ensure the pump is set up on stable, level ground with outriggers fully deployed. Ground conditions must support the combined weight of the pump and the concrete load."
+    ],
+    "discussion_prompt": "Are there any overhead lines near our pump setup today — and is the clean-out area barricaded?"
+  },
+  {
+    "talk_number": 100,
+    "title": "Tower Crane Operations",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.1435",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Tower crane foundations must be designed and certified by a Professional Engineer. The foundation must account for soil conditions, crane loads, and weather forces.",
+      "Climbing (jacking) operations must follow the manufacturer's procedures exactly. Only trained personnel may perform climbing operations.",
+      "In high winds, the crane must be taken out of service and the boom set to weather vane (free-slew) per the manufacturer's wind speed limits.",
+      "Anti-collision systems are required when multiple cranes overlap in their operating radii. Coordination between operators is critical.",
+      "Daily operator inspections and monthly competent person inspections must be documented. Report any unusual noises, vibrations, or warning indicators immediately."
+    ],
+    "discussion_prompt": "What is the wind speed limit for our tower crane, and what is the procedure when it is exceeded?"
+  },
+  {
+    "talk_number": 101,
+    "title": "Structural Steel — Bolting and Welding",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.756",
+    "secondary_cfr": ["1926.761"],
+    "talking_points": [
+      "At least two bolts must be installed and tightened at each connection before the crane releases the load. This is the minimum for structural stability.",
+      "Fall protection is required for connectors above 15 feet and for all other ironworkers above 6 feet (or 30 feet for decking in a controlled decking zone).",
+      "Welded connections on structural steel must be performed by certified welders using approved procedures. Inspect joints visually and per the inspection plan.",
+      "Temporary bracing may be required until permanent connections are completed. Do not remove temporary bracing until the engineer authorizes it.",
+      "Bolt inspection (torque verification or turn-of-nut method) must be performed per the project specifications. Under-torqued bolts compromise structural integrity."
+    ],
+    "discussion_prompt": "Are all connections in today's work area secured with at least two bolts — and has anyone verified the torque?"
+  },
+  {
+    "talk_number": 102,
+    "title": "Oxy-Fuel Cutting and Welding",
+    "hazard_category": "Fire/Explosion",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.350",
+    "secondary_cfr": ["1910.253"],
+    "talking_points": [
+      "Store oxygen cylinders at least 20 feet from fuel gas cylinders, or separate them with a 5-foot-high noncombustible barrier with a 30-minute fire rating.",
+      "Flashback arrestors must be installed on both the torch end and the regulator end of the hoses. Check valves alone are not sufficient.",
+      "Before lighting the torch, purge each hose individually to remove any mixed gases. Open fuel gas first when lighting; close fuel gas last when shutting down.",
+      "Never use oil, grease, or any petroleum-based product on oxygen equipment. Oxygen under pressure plus hydrocarbons equals an explosive reaction.",
+      "Inspect hoses for cracks, burns, and leaks before each use. Replace damaged hoses — do not tape them."
+    ],
+    "discussion_prompt": "Are our cylinders separated properly right now — and do our torches have flashback arrestors on both ends?"
+  },
+  {
+    "talk_number": 103,
+    "title": "Arc Welding Safety",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.351",
+    "secondary_cfr": ["1910.254"],
+    "talking_points": [
+      "Electrode holders must be rated for the maximum amperage of the welder. Using an undersized holder creates a fire and shock hazard.",
+      "The work lead (ground clamp) should be attached as close to the weld area as practical. A long return path increases resistance and shock risk.",
+      "Welding cables must be inspected for damaged insulation before each use. Exposed conductors can deliver a fatal shock, especially in damp conditions.",
+      "Wear dry gloves and clothing. Even low-voltage welding circuits (60-80V open circuit) can kill, particularly in wet or confined conditions.",
+      "Provide adequate ventilation — welding fumes contain metals that can cause serious respiratory and neurological damage."
+    ],
+    "discussion_prompt": "Is the welding area properly ventilated today — and has the work lead been placed close to the weld point?"
+  },
+  {
+    "talk_number": 104,
+    "title": "Welding in Confined Spaces",
+    "hazard_category": "Confined Space",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.353",
+    "secondary_cfr": ["1910.252(c)"],
+    "talking_points": [
+      "All cylinders and welding machines must remain outside the confined space. Only the torch and leads enter the space.",
+      "Mechanical ventilation is mandatory when welding in a confined space. Natural ventilation alone is never sufficient.",
+      "Continuous atmospheric monitoring for oxygen, LEL, and toxic gases must be performed throughout the welding operation.",
+      "A fire watch must be stationed both inside (if possible) and outside the space. Sparks and slag can accumulate in hidden areas.",
+      "When welding is interrupted for a substantial period — like a lunch break — remove the electrode from the holder and shut off the gas supply."
+    ],
+    "discussion_prompt": "If we're welding inside a space today, are the cylinders outside, the ventilation running, and a fire watch in place?"
+  },
+  {
+    "talk_number": 105,
+    "title": "Concrete Finishing — Knee and Back Safety",
+    "hazard_category": "Ergonomic",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Knee pads are essential for concrete finishers. Prolonged kneeling on hard surfaces causes bursitis, cartilage damage, and chronic knee pain.",
+      "Use kneeling boards to distribute your weight across a larger area. This reduces point-pressure on the knees and provides a more stable surface.",
+      "Rotate tasks throughout the day to avoid sustained kneeling or bending. Alternate between finishing, forming, and other activities when possible.",
+      "Long-handled finishing tools (bull floats, fresnos, power trowels) reduce the need to bend and kneel. Use them whenever the task allows.",
+      "Stretch before the shift and during breaks. Focus on hamstrings, lower back, and quadriceps — the muscle groups most stressed by finishing work."
+    ],
+    "discussion_prompt": "Is everyone wearing knee pads today — and when was the last time we rotated tasks to give knees and backs a break?"
+  },
+  {
+    "talk_number": 106,
+    "title": "Tilt-Up Construction",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.704",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Temporary bracing for tilt-up panels must be designed by a Professional Engineer and installed before the crane releases the panel.",
+      "At least two braces per panel are required. Braces must be secured to both the panel and the floor slab at the specified locations.",
+      "No one may work or walk on the side of a panel opposite the braces during erection — if the panel falls, it falls toward the unbraced side.",
+      "Rigging hardware — inserts, strongbacks, and lifting clutches — must be inspected before each lift and must match the panel weight.",
+      "Wind is the enemy of tilt-up erection. Monitor wind speed continuously and suspend operations when speeds exceed the engineer's limits for the panel size."
+    ],
+    "discussion_prompt": "Are the braces installed per the engineer's plan, and is anyone working on the unbraced side of a panel right now?"
+  },
+  {
+    "talk_number": 107,
+    "title": "Electrical Panels and Clearances",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.303(g)",
+    "secondary_cfr": ["1926.405"],
+    "talking_points": [
+      "A minimum of 36 inches of clear working space is required in front of electrical panels rated up to 600 volts. This space must be kept free of storage, materials, and equipment.",
+      "The working space must be at least 30 inches wide and extend from floor to 6.5 feet high (or to the height of the equipment, whichever is greater).",
+      "All panel directories must be labeled accurately. Every circuit breaker must be identified — blank or incorrect labels create hazards during lockout and emergencies.",
+      "Panels must be accessible — never locked in rooms where only one person has the key, and never placed behind barriers that prevent quick access.",
+      "Report any panels with missing covers, exposed wiring, or signs of overheating (discoloration, burning smell) immediately."
+    ],
+    "discussion_prompt": "Are all the electrical panels in our work area accessible with 36 inches of clearance — and are the directories current?"
+  },
+  {
+    "talk_number": 108,
+    "title": "First Aid and Emergency Response",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.50",
+    "secondary_cfr": ["1910.151"],
+    "talking_points": [
+      "A first aid kit must be available on every construction site. Its contents must be appropriate for the hazards present and be checked regularly to replace used items.",
+      "At least one person trained in first aid and CPR must be available within 3-4 minutes of any work area where there is no infirmary, clinic, or hospital in near proximity.",
+      "Emergency phone numbers — 911, the site safety contact, and the nearest hospital — must be posted and known by all workers.",
+      "Know the location of the nearest AED (automated external defibrillator) if one is available. In cardiac arrest, defibrillation within 3-5 minutes dramatically improves survival.",
+      "Do not move an injured person unless they are in immediate danger. Spinal injuries can be worsened by improper movement. Wait for trained medical responders."
+    ],
+    "discussion_prompt": "Where is the nearest first aid kit and AED, and who on this crew is trained in CPR?"
+  },
+  {
+    "talk_number": 109,
+    "title": "Emergency Action Plans",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.38",
+    "secondary_cfr": ["1926.35"],
+    "talking_points": [
+      "Every site must have a written emergency action plan covering fire, severe weather, medical emergencies, chemical spills, and structural collapse.",
+      "The alarm system — whether a horn, siren, or PA — must be understood by all workers. Know what different signals mean.",
+      "Evacuation routes must be posted, marked, and kept clear. Know your primary and alternate routes from your work area.",
+      "A headcount procedure must be in place. After evacuation, a designated person must verify that all workers are accounted for at the assembly point.",
+      "Drills should be conducted at least annually — more often on large or high-hazard sites. Drills reveal problems that a written plan cannot."
+    ],
+    "discussion_prompt": "Where is our assembly point, and who is responsible for the headcount?"
+  },
+  {
+    "talk_number": 110,
+    "title": "Severe Weather Preparedness",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Lightning: when thunder is heard less than 30 seconds after a lightning flash, stop outdoor work and seek shelter immediately. Wait 30 minutes after the last thunder before resuming.",
+      "High wind thresholds vary by activity. Cranes typically have limits of 20-30 mph; mast climbers 25-30 mph. Know the limits for your equipment.",
+      "Tornado preparedness: identify the nearest interior room or structure on the lowest floor. Open construction sites may not have adequate shelter — plan your response in advance.",
+      "Heavy rain creates slip hazards, destabilizes excavations, and increases the risk of electrical faults. Reassess conditions before resuming work after a storm.",
+      "Designate a weather watcher — someone monitoring conditions and forecasts who has the authority to call for an evacuation."
+    ],
+    "discussion_prompt": "What is the severe weather plan for today — and who is our weather watcher?"
+  },
+  {
+    "talk_number": 111,
+    "title": "Spill Prevention and Cleanup",
+    "hazard_category": "Chemical",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1910.120(q)",
+    "secondary_cfr": ["40 CFR 112"],
+    "talking_points": [
+      "A Spill Prevention, Control, and Countermeasure (SPCC) plan is required for facilities storing more than 1,320 gallons of oil/petroleum products in aggregate.",
+      "Secondary containment — berms, dikes, or drip pans — must be in place around bulk storage to capture spills before they reach the ground or waterways.",
+      "Spill kits must be readily accessible near all chemical and fuel storage areas. Know the contents: absorbent pads, booms, gloves, bags, and instructions.",
+      "Report any spill above the reportable quantity to your supervisor immediately. Some spills require notification to state or federal agencies within a specific timeframe.",
+      "Only trained personnel should clean up chemical spills. If you don't know what was spilled, do not attempt cleanup — evacuate the area and notify your supervisor."
+    ],
+    "discussion_prompt": "Where is the nearest spill kit, and does everyone know how to use it?"
+  },
+  {
+    "talk_number": 112,
+    "title": "Stormwater and Erosion Control",
+    "hazard_category": "Environmental",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.20",
+    "secondary_cfr": ["40 CFR 122"],
+    "talking_points": [
+      "A Stormwater Pollution Prevention Plan (SWPPP) is required for construction sites that disturb more than 1 acre of land.",
+      "Best Management Practices include silt fencing, inlet protection, construction entrances with gravel tracking pads, and sediment basins.",
+      "Inspect erosion controls weekly and after every rain event that produces runoff. Repair or replace damaged controls within 24 hours.",
+      "Never discharge concrete washout, paint, solvents, or construction debris into storm drains, ditches, or waterways. Use designated washout areas.",
+      "Everyone on site shares responsibility for stormwater compliance. If you see a failed silt fence, an open storm drain, or a discharge, report it immediately."
+    ],
+    "discussion_prompt": "After the last rain, did anyone inspect our silt fencing and inlet protection — and are they still functioning?"
+  },
+  {
+    "talk_number": 113,
+    "title": "Asphalt Paving Safety",
+    "hazard_category": "Heat/Cold",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.20",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Hot-mix asphalt is delivered at 275-325°F. Contact with skin causes immediate severe burns. Wear long sleeves, long pants, and boots at all times near hot mix.",
+      "Asphalt fumes can irritate the respiratory system. Work upwind when possible, and use respiratory protection if exposure is prolonged or in enclosed areas.",
+      "Release agents used to prevent asphalt from sticking must be approved — diesel fuel is not an acceptable release agent due to skin absorption and fire risk.",
+      "Traffic exposure is a leading cause of paving crew fatalities. Maintain work zone traffic control per the MUTCD and wear Class 2 or 3 high-visibility clothing.",
+      "Heat stress is compounded by the radiant heat from hot asphalt. Increase water intake and take more frequent breaks when paving in hot weather."
+    ],
+    "discussion_prompt": "Are we upwind of the paver today, and is everyone wearing the right protective clothing for hot-mix work?"
+  },
+  {
+    "talk_number": 114,
+    "title": "Roofing — Built-Up and Torch-Applied",
+    "hazard_category": "Fire/Explosion",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.502",
+    "secondary_cfr": ["1926.352"],
+    "talking_points": [
+      "Torch-applied roofing requires a fire watch during application and for at least 2 hours after the last torch is extinguished.",
+      "A fire extinguisher must be within 6 feet of any active torch operation on a roof.",
+      "Hot asphalt kettles must be positioned at least 20 feet from any structure or combustible material. Monitor the kettle temperature continuously.",
+      "Check the roof deck before torching — gaps, cracks, and openings allow heat to reach combustible substrates below, which is a leading cause of roof fires.",
+      "Fall protection is required for all roofing work at 6 feet — the fire risk does not excuse fall protection. Combine fire safety and fall protection in your plan."
+    ],
+    "discussion_prompt": "Who is the fire watch today, and do they have a charged extinguisher within reach?"
+  },
+  {
+    "talk_number": 115,
+    "title": "Glazing and Curtain Wall Installation",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.502",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Fall protection is required at 6 feet during all glazing and curtain wall operations. PFAS is typically required because guardrails may interfere with the installation.",
+      "Secure glass panels with suction cups rated for the panel weight. Inspect suction cups for wear, cracking, and proper vacuum before each use.",
+      "Wind is the primary enemy of glass handling at height. Establish wind speed limits and suspend panel hoisting when limits are exceeded.",
+      "Panels staged at height must be secured against wind, vibration, and accidental displacement. An unsecured panel can become a sail in a gust.",
+      "Wear cut-resistant gloves when handling glass. Even tempered glass edges can cause deep cuts."
+    ],
+    "discussion_prompt": "What are our wind speed limits for panel handling today — and who is monitoring conditions?"
+  },
+  {
+    "talk_number": 116,
+    "title": "Elevator and Escalator Installation",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.552",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Elevator shaft openings at every floor must be guarded with guardrails to prevent falls into the shaft. This applies throughout construction.",
+      "The elevator car hoisting mechanism must be rated for the intended load and tested before use. Overloading the car is prohibited.",
+      "Never ride on top of an elevator car unless specifically authorized and equipped with fall protection tied to an independent anchorage.",
+      "Lockout/tagout is required before any work on elevator or escalator mechanisms. The power supply, hydraulic system, and counterweight must all be secured.",
+      "Communication between workers at the top and bottom of the shaft is essential. Use radios or an intercom system — do not shout."
+    ],
+    "discussion_prompt": "Are all elevator shaft openings guarded on every floor right now — or are any guardrails missing?"
+  },
+  {
+    "talk_number": 117,
+    "title": "Repetitive Motion and Ergonomic Awareness",
+    "hazard_category": "Ergonomic",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Repetitive motion injuries — carpal tunnel, tendinitis, rotator cuff strain — develop slowly over weeks and months but can become career-ending.",
+      "Take micro-breaks every 30-60 minutes during repetitive tasks. Even a 30-second pause to stretch and reset your posture makes a difference.",
+      "Maintain neutral wrist and shoulder positions whenever possible. Avoid sustained gripping, pinching, or reaching above shoulder height.",
+      "Vary your tasks throughout the day. If you've been drilling overhead for an hour, switch to a ground-level task before your muscles fatigue.",
+      "If you feel numbness, tingling, or persistent pain in your hands, wrists, arms, or shoulders, report it early. Early intervention prevents permanent damage."
+    ],
+    "discussion_prompt": "Is anyone experiencing numbness, tingling, or pain from repetitive tasks — and can we rotate assignments today to help?"
+  },
+  {
+    "talk_number": 118,
+    "title": "Vibration Exposure — Hand-Arm (HAVS)",
+    "hazard_category": "Ergonomic",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Hand-Arm Vibration Syndrome (HAVS) causes white fingers, numbness, tingling, and loss of grip strength. It is irreversible once advanced.",
+      "OSHA does not have a specific PEL for vibration, but NIOSH recommends limiting exposure to high-vibration tools (jackhammers, chipping guns, grinders) to less than 4 hours per day.",
+      "Anti-vibration gloves can reduce some transmission but are not a substitute for limiting exposure time. Choose gloves specifically rated for vibration reduction.",
+      "Maintain tools properly — dull bits, worn bearings, and imbalanced wheels increase vibration significantly. A well-maintained tool vibrates less.",
+      "If your fingers turn white or numb after using vibrating tools, report it to your supervisor and see a doctor. Early symptoms are the warning — don't ignore them."
+    ],
+    "discussion_prompt": "How much time are you spending on vibrating tools each day — and are you rotating with other crew members?"
+  },
+  {
+    "talk_number": 119,
+    "title": "Controlled Access Zones",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.502(g)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "A controlled access zone is an area set back from a leading edge where conventional fall protection is infeasible and only authorized workers may enter.",
+      "The control line must be set back at least 6 feet from the edge (10 feet when working with overhand bricklaying or precast concrete).",
+      "Control lines must be 39-45 inches high, flagged every 6 feet, and supported by stanchions strong enough to prevent displacement.",
+      "Only the minimum number of workers necessary may enter the controlled access zone. Everyone inside must be trained on the specific procedures.",
+      "A controlled access zone is not the same as a warning line and is not a license to work unprotected — it is a last resort when other methods won't work."
+    ],
+    "discussion_prompt": "Is the controlled access zone properly set up today — line height, flags, distance from the edge — and who is authorized to enter?"
+  },
+  {
+    "talk_number": 120,
+    "title": "Hole Covers and Skylight Protection",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.502(i)",
+    "secondary_cfr": ["1910.29"],
+    "talking_points": [
+      "All floor holes and skylights through which a worker could fall must be guarded with a cover or guardrail system.",
+      "Covers must support at least twice the maximum intended load — including the heaviest worker plus any tools or materials they carry.",
+      "Covers must be secured against displacement by nails, screws, bolts, or other fasteners. A loose cover is nearly as dangerous as no cover.",
+      "Mark covers clearly in a contrasting color with 'HOLE' or 'COVER.' An unmarked cover may be moved by someone who doesn't know what's underneath.",
+      "Skylights are particularly dangerous because they look solid but cannot support a person's weight. Use skylight screens or guardrails rated for the load."
+    ],
+    "discussion_prompt": "Are all floor openings and skylights in our work area covered and secured — or do we need to address any before starting work?"
+  },
+  {
+    "talk_number": 121,
+    "title": "Drug and Alcohol Awareness on Jobsites",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": ["DOT 49 CFR 40"],
+    "talking_points": [
+      "Impairment from drugs or alcohol dramatically increases the risk of injury — to yourself and to everyone around you. Most companies have a zero-tolerance policy.",
+      "Prescription medications can also cause impairment. If your medication warns against operating heavy equipment or causes drowsiness, notify your supervisor before starting work.",
+      "If you suspect a co-worker is impaired, say something. This is not about getting someone in trouble — it is about keeping everyone alive.",
+      "Workers who hold a commercial driver's license (CDL) are subject to DOT drug and alcohol testing requirements, including random, post-accident, and reasonable-suspicion testing.",
+      "Employee assistance programs (EAPs) are confidential resources. If you or someone you know needs help, reach out — it's a sign of strength, not weakness."
+    ],
+    "discussion_prompt": "Does everyone know how to access the company's EAP — and do you feel comfortable using it if needed?"
+  },
+  {
+    "talk_number": 122,
+    "title": "Fatigue Management — Shift Work and Overtime",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Fatigue impairs judgment, reaction time, and coordination — similar to the effects of alcohol. After 17 hours awake, performance equals a 0.05% blood alcohol level.",
+      "The risk of workplace accidents doubles after 12 hours of work. After 16 hours, it triples.",
+      "If you are fatigued, speak up. Pushing through is not toughness — it is a risk to yourself and your crew.",
+      "Hydration, nutrition, and quality sleep are the foundation of fatigue management. Energy drinks and caffeine mask fatigue but do not eliminate the risk.",
+      "Supervisors: monitor your crew for signs of fatigue — slow reactions, confusion, irritability, and near-misses. Adjust schedules and tasks accordingly."
+    ],
+    "discussion_prompt": "Is anyone on the crew running on less than 5 hours of sleep — and what can we do to manage the risk today?"
+  },
+  {
+    "talk_number": 123,
+    "title": "Mental Health and Suicide Prevention in Construction",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "Section 5(a)(1)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Construction has the highest suicide rate of any industry. This is a safety issue — it belongs in our toolbox talks alongside falls and electrocution.",
+      "Risk factors in our industry include physical pain, long hours, time away from family, job insecurity, and a culture that discourages talking about struggles.",
+      "Watch for warning signs in your crew: withdrawal, hopelessness, giving away possessions, increased substance use, talking about being a burden, or drastic mood changes.",
+      "If you're concerned about someone, ask directly: 'Are you thinking about hurting yourself?' Asking does not plant the idea — it opens the door to help.",
+      "The 988 Suicide and Crisis Lifeline is available 24/7 by calling or texting 988. Your company's EAP is another confidential resource."
+    ],
+    "discussion_prompt": "Does everyone know how to reach the 988 Lifeline and our company's EAP — and would you feel comfortable reaching out if you needed to?"
+  },
+  {
+    "talk_number": 124,
+    "title": "Permit-to-Work Systems",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.20",
+    "secondary_cfr": ["1910.146", "1910.147"],
+    "talking_points": [
+      "High-hazard activities — confined space entry, hot work, excavation, lockout/tagout, and work on energized equipment — require a written permit before work begins.",
+      "A permit documents the hazards, the controls in place, the workers involved, and the duration of the authorization. It is a communication tool, not just paperwork.",
+      "Permits are time-limited and area-specific. A permit from yesterday does not cover today's work — even if the task is the same.",
+      "The permit must be signed by an authorized person and posted at the work location. All workers involved must read and understand the permit.",
+      "When the work is complete, the permit must be closed out and returned. Review any issues or near-misses that occurred during the work."
+    ],
+    "discussion_prompt": "Do we have all required permits in place for today's work — confined space, hot work, excavation — and are they posted?"
+  },
+  {
+    "talk_number": 125,
+    "title": "Multi-Employer Worksite Responsibilities",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.16",
+    "secondary_cfr": [],
+    "talking_points": [
+      "On multi-employer construction sites, OSHA can cite four types of employers: the creating employer (who caused the hazard), the exposing employer (whose workers are exposed), the correcting employer (who is responsible for fixing it), and the controlling employer (who has general authority over the site).",
+      "The general contractor is typically the controlling employer and has the broadest responsibility for site safety — even for subcontractor activities.",
+      "If you see a hazard created by another trade, do not assume it is 'not your problem.' Report it to your supervisor and to the GC's safety team.",
+      "Subcontractors must comply with OSHA standards and the GC's site safety plan. Having your own safety program does not exempt you from site-specific rules.",
+      "Pre-task planning meetings with multiple trades help identify conflicts — like one crew cutting above another crew's work area."
+    ],
+    "discussion_prompt": "Are there any multi-trade conflicts today — different crews working above, below, or adjacent to each other — that we need to coordinate?"
+  },
+  {
+    "talk_number": 126,
+    "title": "Toolbox Talk Best Practices (Meta)",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.21",
+    "secondary_cfr": ["1926.20"],
+    "talking_points": [
+      "An effective toolbox talk is relevant to the day's work. If you're pouring concrete today, talk about formwork safety — not confined spaces.",
+      "Keep it to 5-10 minutes. Be concise, practical, and conversational. This is a discussion, not a lecture.",
+      "Ask questions and encourage participation. A crew that talks about safety together watches out for each other.",
+      "Document attendance with signatures and keep records. This is both a compliance requirement and evidence of your commitment to training.",
+      "Follow up during the day. If the morning talk was about ladder safety, check ladders in the afternoon. Consistency between words and actions is what builds a safety culture."
+    ],
+    "discussion_prompt": "What safety topic would YOU want to cover in a toolbox talk this week — what's on your mind?"
+  },
+  {
+    "talk_number": 127,
+    "title": "Incident Investigation and Near-Miss Reporting",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1904.39",
+    "secondary_cfr": ["1926.20"],
+    "talking_points": [
+      "Fatalities must be reported to OSHA within 8 hours. Amputations, loss of an eye, or inpatient hospitalization must be reported within 24 hours.",
+      "Incident investigation is not about assigning blame — it is about identifying root causes and preventing recurrence.",
+      "Near-misses are free lessons. A near-miss today is tomorrow's injury if we don't address the root cause. Report every one.",
+      "Use a structured investigation method: what happened, why it happened (ask 'why' five times), what conditions allowed it, and what we will change.",
+      "Share investigation findings with the entire team. Lessons learned in private benefit no one."
+    ],
+    "discussion_prompt": "Has anyone had a near-miss recently that we should discuss — even if it seemed minor at the time?"
+  },
+  {
+    "talk_number": 128,
+    "title": "OSHA Recordkeeping (300/300A/301)",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1904",
+    "secondary_cfr": [],
+    "talking_points": [
+      "The OSHA 300 Log records every work-related injury and illness that meets the recording criteria — medical treatment beyond first aid, days away from work, restricted duty, or loss of consciousness.",
+      "The 300A Summary must be posted in the workplace from February 1 through April 30 each year, where all employees can see it.",
+      "Employers with 250 or more employees, or those in certain high-hazard NAICS codes, must electronically submit 300, 300A, and 301 data to OSHA.",
+      "All records must be maintained for at least 5 years. They must be available for inspection by OSHA, employees, and employee representatives.",
+      "Accurate recordkeeping is not just about compliance — it identifies trends that help you target your safety efforts where they will have the most impact."
+    ],
+    "discussion_prompt": "Do you know where the OSHA 300A Summary is posted at our site — and have you looked at it this year?"
+  },
+  {
+    "talk_number": 129,
+    "title": "Scaffolding — Rolling/Mobile Scaffolds",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.452(w)",
+    "secondary_cfr": ["1910.23(e)"],
+    "talking_points": [
+      "All caster wheels must be locked before anyone climbs or works on a mobile scaffold. Unlocked casters are one of the most common scaffold citation items.",
+      "The maximum height of a mobile scaffold must not exceed four times the minimum base dimension — unless outriggers are used to widen the base.",
+      "No workers may ride on a mobile scaffold while it is being moved. Everyone must dismount before repositioning.",
+      "Move the scaffold on a level surface only. Even a slight grade can cause a mobile scaffold to roll uncontrollably.",
+      "Apply the same guardrail and platform requirements as supported scaffolds — top rail, midrail, toeboards, and full planking."
+    ],
+    "discussion_prompt": "Are the casters locked on our rolling scaffold right now — and is the height within the 4:1 ratio?"
+  },
+  {
+    "talk_number": 130,
+    "title": "Drywall and Interior Finishing Hazards",
+    "hazard_category": "Ergonomic",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.20",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Drywall stilts increase fall risk — maintain balance, avoid uneven surfaces, and never use stilts on scaffolding (it is prohibited).",
+      "Joint compound and drywall sanding generate fine dust. Some older joint compounds may contain silica. Use a HEPA vacuum sander or wet sanding methods and wear respiratory protection.",
+      "Full sheets of drywall are heavy and awkward. Use a drywall lift for ceiling installations and team-lift for wall panels when possible.",
+      "Utility knives are the most common source of cuts in drywall work. Use a retractable blade, cut away from your body, and replace dull blades — they require more force and slip more easily.",
+      "Poor lighting in unfinished spaces increases tripping hazards and strains your eyes. Set up temporary task lighting before starting finish work."
+    ],
+    "discussion_prompt": "Is anyone using stilts today — and are they on a level, clear surface away from openings?"
+  },
+  {
+    "talk_number": 131,
+    "title": "Painting and Coatings — Chemical Exposure",
+    "hazard_category": "Respiratory",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.57",
+    "secondary_cfr": ["1910.94"],
+    "talking_points": [
+      "Spray painting requires ventilation to control overspray and fume exposure. In spray booths, airflow must draw fumes away from the painter's breathing zone.",
+      "Solvent-based coatings produce flammable vapors — monitor LEL levels and ensure no ignition sources are present in the spray area.",
+      "Check the SDS for each coating you are using. The SDS specifies the correct respiratory protection, glove type, and ventilation requirements.",
+      "Two-component coatings (epoxies, polyurethanes) often contain isocyanates, which are potent respiratory sensitizers. Once sensitized, even tiny exposures cause asthma attacks.",
+      "Lead-based paint may be present on older structures being repainted. Test before disturbing and follow lead-safe work practices if lead is confirmed."
+    ],
+    "discussion_prompt": "What coatings are we applying today, and have we checked the SDS for respiratory and ventilation requirements?"
+  },
+  {
+    "talk_number": 132,
+    "title": "Masonry Wall Bracing",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.706",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Masonry walls over 8 feet in height must be braced to prevent collapse until permanent structural support is in place.",
+      "A limited access zone must be established on the unbraced side of the wall equal to the wall height plus 4 feet. No one may enter this zone.",
+      "Wind is the most common cause of masonry wall collapse during construction. Monitor conditions and increase bracing in gusty weather.",
+      "Braces must be designed or specified by a competent person and attached to both the wall and a stable anchor point.",
+      "Do not remove bracing until the mortar has achieved adequate strength and permanent structural connections (roof, floor, cross-walls) are in place."
+    ],
+    "discussion_prompt": "Are the masonry walls in our work area braced — and is the limited access zone established and respected?"
+  },
+  {
+    "talk_number": 133,
+    "title": "Precast Concrete Erection",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.704",
+    "secondary_cfr": ["1926.752"],
+    "talking_points": [
+      "Temporary bracing for precast elements must be designed by a Professional Engineer and installed before the crane releases the piece.",
+      "Use tag lines to control the load during placement. Never stand between a precast element and a fixed object during positioning.",
+      "Inspect all rigging hardware — lifting inserts, coil bolts, anchors — before each lift. Hardware must match the element weight and configuration.",
+      "Fall protection is required for erection crews working at height. Plan anchorage points before the pieces are placed, not after.",
+      "No workers may be under a suspended precast element at any time. Barricade the drop zone and the swing radius."
+    ],
+    "discussion_prompt": "Has the engineer's bracing plan been reviewed for today's picks — and are all rigging inserts inspected?"
+  },
+  {
+    "talk_number": 134,
+    "title": "Temporary Traffic Control (Work Zones)",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.201",
+    "secondary_cfr": ["MUTCD Part 6"],
+    "talking_points": [
+      "A Temporary Traffic Control (TTC) plan is required for all work that affects public traffic. The plan must conform to the MUTCD and any state or local requirements.",
+      "Channelizing devices — cones, barrels, barriers — must be placed per the plan to guide traffic around the work area. Include adequate advance warning signs.",
+      "Buffer space between the work area and live traffic must account for speed, stopping distance, and the type of traffic control device used.",
+      "Night work requires enhanced delineation — reflective channelizers, flashing lights, and illuminated signs. Standard cones without reflectors are not sufficient at night.",
+      "Workers in the TTC zone must wear high-visibility clothing appropriate for the speed and time of day."
+    ],
+    "discussion_prompt": "Is our work zone set up exactly per the TTC plan — and are all the signs and channelizers in the right positions?"
+  },
+  {
+    "talk_number": 135,
+    "title": "Utility Locating (Call Before You Dig)",
+    "hazard_category": "Electrocution",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.651(b)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Call 811 at least 48-72 hours before any excavation. This is a legal requirement in every state and initiates utility locating.",
+      "Utility marks use a standard color code: Red = electric, Yellow = gas/oil, Orange = telecom, Blue = water, Green = sewer, White = proposed excavation.",
+      "Hand-dig within 18-24 inches of utility marks (the exact distance varies by state). Mechanical equipment may not be used within this tolerance zone.",
+      "Unmarked or unexpected utilities can still be present — especially private utilities not registered with 811. Use caution and watch for signs of buried lines.",
+      "If you strike a utility, stop work immediately, evacuate the area, and call 911 and the utility company. Do not attempt to repair a damaged gas or electrical line."
+    ],
+    "discussion_prompt": "Has 811 been called for today's dig — and do we have the utility locate ticket number posted?"
+  },
+  {
+    "talk_number": 136,
+    "title": "Dewatering and Pumping Operations",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.651(h)",
+    "secondary_cfr": [],
+    "talking_points": [
+      "Water accumulation in excavations must be controlled continuously. Standing water weakens trench walls and can trigger sudden cave-ins.",
+      "Dewatering pumps must be sized for the expected inflow. A pump that cannot keep up creates a false sense of security while water undermines the soil.",
+      "Electrical equipment near water creates an electrocution hazard. Use GFCI protection on all pumps and power equipment in wet areas.",
+      "Discharge water must be directed away from the excavation and away from other work areas. Check environmental permits for discharge requirements.",
+      "If water is rising faster than it can be controlled, evacuate the excavation. Workers should never remain in a trench where water levels are increasing."
+    ],
+    "discussion_prompt": "Is our dewatering system keeping up with the inflow today — and where is the discharge going?"
+  },
+  {
+    "talk_number": 137,
+    "title": "Crane Load Charts and Capacity",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.1417",
+    "secondary_cfr": [],
+    "talking_points": [
+      "The load chart must be in the cab and readily accessible to the operator at all times. It specifies the rated capacity for every combination of boom length, radius, and configuration.",
+      "Capacity decreases as the radius increases. A crane rated for 50 tons at 20-foot radius may only be rated for 10 tons at 80 feet — always check the chart.",
+      "The total load includes the weight of the object PLUS the rigging, block, and ball. Forgetting to account for rigging weight has caused overloads.",
+      "Use 75% of rated capacity as the planning threshold. This provides a margin for wind, dynamic loading, and measurement uncertainty.",
+      "If the LMI (load moment indicator) alarms, stop the lift immediately. Do not override the LMI — it exists to prevent tip-over and structural failure."
+    ],
+    "discussion_prompt": "What is the heaviest pick planned for today — and have we verified it against the load chart for the planned radius?"
+  },
+  {
+    "talk_number": 138,
+    "title": "Crane Operator Certification",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.1427",
+    "secondary_cfr": [],
+    "talking_points": [
+      "All crane operators must be certified by an accredited certifying body such as NCCCO, CIC, or NCCER. Employer-only certifications are not sufficient.",
+      "Certification is type-specific (lattice boom, telescopic, tower) and capacity-specific. An operator certified on a 50-ton telescopic is not certified for a 200-ton lattice.",
+      "Certification must be renewed every five years. Medical fitness evaluations are also required — a crane operator must meet specific physical standards.",
+      "Employers must also evaluate each operator on the specific equipment they will operate at each jobsite. Certification alone is not enough — site-specific evaluation is required.",
+      "Trainees may operate cranes only under the direct supervision of a certified operator, and the trainee must be in the process of obtaining certification."
+    ],
+    "discussion_prompt": "Is our crane operator's certification current, and does it cover the specific type and capacity of the crane on site?"
+  },
+  {
+    "talk_number": 139,
+    "title": "Ladder Safety — Step Ladders",
+    "hazard_category": "Fall",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.1053",
+    "secondary_cfr": ["1910.23"],
+    "talking_points": [
+      "Open the stepladder fully until the spreaders lock. A partially opened stepladder is inherently unstable and can collapse without warning.",
+      "Never stand on the top cap or the top step of a stepladder. These positions create a high center of gravity with no support to hold onto.",
+      "Place the ladder on a firm, level surface. If the floor is uneven, find a better location — do not use shims, boards, or bricks to level the ladder.",
+      "Follow the duty rating: Type IA (300 lbs, industrial) is the minimum for most construction work. Type II (225 lbs, commercial) may not be sufficient for a worker plus tools.",
+      "Do not overreach — your belt buckle should stay between the side rails. If you can't reach, move the ladder."
+    ],
+    "discussion_prompt": "Is the stepladder you used last time the correct duty rating for your weight plus your tools?"
+  },
+  {
+    "talk_number": 140,
+    "title": "Signs, Signals, and Barricades",
+    "hazard_category": "General",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.200-203",
+    "secondary_cfr": ["1910.145"],
+    "talking_points": [
+      "DANGER signs (red, black, and white) indicate an immediate hazard that could cause death or serious injury. Do not enter a danger zone without authorization.",
+      "CAUTION signs (yellow with black text) warn of potential hazards that could cause moderate injury. Follow the instructions on the sign.",
+      "Color coding follows ANSI Z535: Red = danger/fire, Orange = warning, Yellow = caution, Green = safety/first aid, Blue = information.",
+      "Barricade tape is for awareness only — it is not a physical barrier. Respecting tape boundaries requires a conscious decision by every worker who sees it.",
+      "When you set up a barricade, make sure it is visible, complete (no gaps), and communicated to the crew. A barricade that nobody knows about protects nobody."
+    ],
+    "discussion_prompt": "Is every barricade and sign on our site today still in place and properly communicated — or have any been knocked down or ignored?"
+  },
+  {
+    "talk_number": 141,
+    "title": "Personal Hygiene — Hazardous Materials",
+    "hazard_category": "Health",
+    "duration_minutes": 10,
+    "applies_to": "Both",
+    "osha_priority": "",
+    "primary_cfr": "1926.51",
+    "secondary_cfr": ["1910.141"],
+    "talking_points": [
+      "Never eat, drink, smoke, or apply cosmetics in areas where hazardous materials are present. Ingestion is a real exposure route — contaminated hands transfer chemicals to food.",
+      "Wash your hands and face with soap and water before eating, drinking, or leaving the work area. Hand sanitizer does not remove heavy metals or chemical residues.",
+      "Change out of contaminated clothing before leaving the site. Clothes contaminated with lead, silica, or asbestos can expose your family at home.",
+      "Decontamination stations must be provided when working with particularly hazardous substances — lead, asbestos, and certain chemicals.",
+      "Shower facilities may be required depending on the substance. Check the SDS and the applicable OSHA standard for hygiene requirements."
+    ],
+    "discussion_prompt": "Are we washing up before breaks — and are we changing clothes before going home when we've been working with dusty or chemical materials?"
+  },
+  {
+    "talk_number": 142,
+    "title": "Struck-By Prevention — Falling Objects",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "Fatal Four",
+    "primary_cfr": "1926.759",
+    "secondary_cfr": ["1926.502(j)"],
+    "talking_points": [
+      "Toeboards on scaffold platforms prevent tools and materials from being kicked off the edge. They must be at least 3.5 inches high.",
+      "Overhead canopies or covered walkways are required when workers must pass under areas where there is a risk of falling objects.",
+      "Use tool lanyards for all hand tools when working at height. A dropped wrench from 100 feet can strike with the force of a bullet.",
+      "Debris nets below active work areas catch falling material. They must be inspected regularly and cleared of accumulated debris.",
+      "Hard hat zones must be established and enforced wherever there is any risk of falling objects — even in areas that seem low-risk."
+    ],
+    "discussion_prompt": "Is everyone working at height today using tool lanyards — and is the area below barricaded or protected?"
+  },
+  {
+    "talk_number": 143,
+    "title": "Excavation — Soil Classification (Hands-On)",
+    "hazard_category": "Caught-In/Between",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926 Appendix A",
+    "secondary_cfr": [],
+    "talking_points": [
+      "The competent person must classify soil as Type A (most stable), Type B, Type C (least stable), or stable rock. Classification determines the required protective system.",
+      "Visual tests: look for cracks or fissures in the excavation walls, water seepage, layers of sand or gravel, evidence of previous backfill, and signs of vibration damage.",
+      "Thumb penetration test: if you can easily press your thumb into the soil, it is likely Type C. If it takes considerable pressure, it may be Type A or B.",
+      "The pocket penetrometer provides a quantitative reading. Type A requires unconfined compressive strength above 1.5 tsf; Type B is 0.5-1.5 tsf; Type C is below 0.5 tsf.",
+      "If any condition suggests the soil is weaker than initially classified — water seepage, vibration, recent rain, or mixed soil layers — reclassify to the weaker type."
+    ],
+    "discussion_prompt": "What type of soil are we working in today — and how was it classified? Can the competent person walk us through the test they performed?"
+  },
+  {
+    "talk_number": 144,
+    "title": "Concrete Saw Safety (Walk-Behind and Handheld)",
+    "hazard_category": "Struck-By",
+    "duration_minutes": 10,
+    "applies_to": "Construction",
+    "osha_priority": "",
+    "primary_cfr": "1926.302",
+    "secondary_cfr": ["1926.1153"],
+    "talking_points": [
+      "Use the blade guard at all times — never remove it for a deeper cut or to improve visibility. The guard protects against blade contact and flying debris.",
+      "Wet cutting is the primary silica dust control for concrete saws. The water supply must be connected and flowing before you begin cutting.",
+      "Check the blade RPM rating — it must match or exceed the saw's operating speed. A blade rated below the saw's RPM can disintegrate during use.",
+      "Maintain firm footing and a stable stance. Walk-behind saws can kick or pull if they encounter rebar or an uneven surface.",
+      "Respiratory protection (minimum APF 10, such as an N95) is required in addition to wet cutting when dust is visible or when conditions prevent effective water delivery."
+    ],
+    "discussion_prompt": "Is the water supply connected to our concrete saw right now — and is the blade the correct rating for this saw?"
+  }
+]
