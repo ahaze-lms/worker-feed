@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Toolbox Talks Feed Mockup</title>
+    <title>Toolbox Talks Feed (Working Mockup)</title>
     <style>
       :root {
         --bg: #0f1115;
@@ -15,8 +15,8 @@
         --danger: #ff5f5f;
         --warning: #ffb84d;
         --safe: #33d17a;
+        --border: #2a3040;
       }
-
       * { box-sizing: border-box; }
       body {
         margin: 0;
@@ -24,237 +24,291 @@
         background: radial-gradient(circle at top, #1a2130 0%, var(--bg) 50%);
         color: var(--text);
       }
-
       .layout {
-        max-width: 1100px;
+        max-width: 1200px;
         margin: 0 auto;
-        padding: 24px 16px 80px;
+        padding: 20px 14px 80px;
         display: grid;
-        grid-template-columns: 260px minmax(0, 1fr) 280px;
-        gap: 16px;
+        grid-template-columns: 250px minmax(0, 1fr) 300px;
+        gap: 14px;
       }
-
       .panel {
-        background: color-mix(in srgb, var(--panel) 90%, black);
-        border: 1px solid #2a3040;
-        border-radius: 16px;
-        padding: 14px;
-      }
-
-      .left .brand {
-        font-weight: 700;
-        font-size: 1.2rem;
-        margin-bottom: 16px;
-      }
-
-      .nav-item {
-        display: flex;
-        justify-content: space-between;
-        padding: 10px 12px;
-        border-radius: 10px;
-        margin-bottom: 8px;
-        background: transparent;
-        color: var(--muted);
-      }
-
-      .nav-item.active {
-        color: var(--text);
-        background: var(--panel-soft);
-      }
-
-      .feed-header {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        margin-bottom: 12px;
-      }
-
-      .chips {
-        display: flex;
-        gap: 8px;
-        flex-wrap: wrap;
-        margin-bottom: 12px;
-      }
-
-      .chip {
-        border: 1px solid #38425d;
-        padding: 6px 10px;
-        border-radius: 999px;
-        color: var(--muted);
-        font-size: 0.82rem;
-      }
-
-      .chip.active {
-        color: var(--text);
-        background: #25324f;
-        border-color: #4d6aaa;
-      }
-
-      .card {
-        background: var(--panel);
-        border: 1px solid #2a3040;
+        background: color-mix(in srgb, var(--panel) 92%, black);
+        border: 1px solid var(--border);
         border-radius: 14px;
-        margin-bottom: 12px;
-        overflow: hidden;
+        padding: 12px;
       }
-
+      .brand { font-size: 1.1rem; font-weight: 700; margin-bottom: 12px; }
+      .nav-item {
+        display: flex; justify-content: space-between; padding: 10px 12px; margin-bottom: 6px;
+        border-radius: 10px; color: var(--muted); background: transparent;
+      }
+      .nav-item.active { background: var(--panel-soft); color: var(--text); }
+      .feed-header { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+      .meta { color: var(--muted); font-size: 0.85rem; }
+      .controls {
+        margin: 10px 0 14px;
+        display: grid;
+        grid-template-columns: 1fr 160px;
+        gap: 8px;
+      }
+      input, select, button {
+        background: #20283a; color: var(--text); border: 1px solid #32405f; border-radius: 10px;
+        padding: 8px 10px; font: inherit;
+      }
+      .chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+      .chip {
+        border: 1px solid #38425d; padding: 6px 10px; border-radius: 999px; color: var(--muted);
+        font-size: 0.82rem; cursor: pointer; user-select: none;
+      }
+      .chip.active { background: #25324f; color: var(--text); border-color: #4d6aaa; }
+      .card {
+        background: var(--panel); border: 1px solid var(--border); border-radius: 12px; overflow: hidden;
+        margin-bottom: 10px;
+      }
       .card-top {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 12px 14px;
-        border-bottom: 1px solid #242c3f;
+        display: flex; justify-content: space-between; gap: 8px; align-items: center;
+        border-bottom: 1px solid #242c3f; padding: 10px 12px;
       }
-
-      .meta {
-        color: var(--muted);
-        font-size: 0.85rem;
-      }
-
       .severity {
-        font-size: 0.75rem;
-        padding: 4px 8px;
-        border-radius: 999px;
-        border: 1px solid;
+        font-size: 0.75rem; padding: 4px 8px; border: 1px solid; border-radius: 999px; white-space: nowrap;
       }
-
-      .severity.high { color: var(--danger); border-color: #6a2e35; }
-      .severity.medium { color: var(--warning); border-color: #5f4a2e; }
-      .severity.low { color: var(--safe); border-color: #2e6246; }
-
-      .card-body { padding: 14px; }
+      .high { color: var(--danger); border-color: #6a2e35; }
+      .medium { color: var(--warning); border-color: #5f4a2e; }
+      .low { color: var(--safe); border-color: #2e6246; }
+      .card-body { padding: 12px; }
       .card h3 { margin: 0 0 6px; font-size: 1rem; }
       .card p { margin: 0 0 10px; color: var(--muted); }
-
-      .actions {
-        display: flex;
-        gap: 8px;
-      }
-
-      button {
-        background: #20283a;
-        color: var(--text);
-        border: 1px solid #32405f;
-        border-radius: 10px;
-        padding: 8px 10px;
-        font: inherit;
-      }
-
-      button.primary {
-        background: var(--brand);
-        border-color: #5d95ff;
-      }
-
-      .right h4 {
-        margin: 0 0 10px;
-      }
-
+      .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+      .primary { background: var(--brand); border-color: #5d95ff; }
       .progress {
-        height: 8px;
-        width: 100%;
-        background: #222a3a;
-        border-radius: 999px;
-        overflow: hidden;
+        width: 100%; height: 8px; border-radius: 999px; background: #222a3a; overflow: hidden;
       }
-
       .progress > span {
-        display: block;
-        height: 100%;
-        width: 48%;
-        background: linear-gradient(90deg, #4f8cff, #7aa7ff);
+        display: block; height: 100%; background: linear-gradient(90deg, #4f8cff, #7aa7ff);
       }
-
+      .muted-box { background: #1a2030; border: 1px solid #2b3550; border-radius: 10px; padding: 8px; margin: 8px 0; }
+      .empty { text-align: center; color: var(--muted); padding: 24px 8px; }
       @media (max-width: 980px) {
         .layout { grid-template-columns: 1fr; }
+        .controls { grid-template-columns: 1fr; }
       }
     </style>
   </head>
   <body>
     <main class="layout">
-      <aside class="left panel">
+      <aside class="panel">
         <div class="brand">SafetyFeed LMS</div>
-        <div class="nav-item active"><span>📺 Feed</span><span>144</span></div>
-        <div class="nav-item"><span>✅ My Assignments</span><span>6</span></div>
+        <div class="nav-item active"><span>📺 Feed</span><span id="totalTalksNav">0</span></div>
+        <div class="nav-item"><span>✅ My Assignments</span><span id="assignedCount">0</span></div>
         <div class="nav-item"><span>🏆 Streaks</span><span>11d</span></div>
-        <div class="nav-item"><span>📊 Compliance</span><span>92%</span></div>
-        <div class="nav-item"><span>⚙️ Settings</span><span></span></div>
+        <div class="nav-item"><span>📊 Compliance</span><span id="compliancePct">0%</span></div>
       </aside>
 
       <section>
         <div class="feed-header">
           <h2 style="margin:0">Today’s Toolbox Talks</h2>
-          <div class="meta">Sorted by: Relevance + Recency</div>
-        </div>
-        <div class="chips">
-          <div class="chip active">All</div>
-          <div class="chip">Fatal Four</div>
-          <div class="chip">Fall</div>
-          <div class="chip">Struck-By</div>
-          <div class="chip">Electrocution</div>
-          <div class="chip">Caught-In/Between</div>
+          <div class="meta" id="resultsMeta">Loading...</div>
         </div>
 
-        <article class="card">
-          <div class="card-top">
-            <div>
-              <strong>#1 Fall Protection — General Requirements</strong>
-              <div class="meta">10 min • CFR 1926.501 • Construction + General Industry</div>
-            </div>
-            <span class="severity high">Fatal Four</span>
-          </div>
-          <div class="card-body">
-            <h3>Why this appears first for this learner</h3>
-            <p>
-              Your role is “Field Tech,” you’re scheduled for elevated work this week,
-              and your last fall-protection completion is older than 30 days.
-            </p>
-            <div class="actions">
-              <button class="primary">Start Talk</button>
-              <button>Save</button>
-              <button>Share to Crew</button>
-            </div>
-          </div>
-        </article>
+        <div class="controls">
+          <input id="searchInput" placeholder="Search title, category, CFR..." />
+          <select id="sortSelect">
+            <option value="recommended">Sort: Recommended</option>
+            <option value="number">Sort: Talk Number</option>
+            <option value="duration">Sort: Duration</option>
+            <option value="title">Sort: Title (A-Z)</option>
+          </select>
+        </div>
 
-        <article class="card">
-          <div class="card-top">
-            <div>
-              <strong>#24 Powered Industrial Trucks (Forklifts)</strong>
-              <div class="meta">10 min • CFR 1910.178 • Top 10 Most Cited</div>
-            </div>
-            <span class="severity medium">Top 10</span>
-          </div>
-          <div class="card-body">
-            <h3>Suggested next due to your site activity</h3>
-            <p>
-              High forklift traffic detected at Site B this week. Complete this talk before Thursday shift start.
-            </p>
-            <div class="actions">
-              <button class="primary">Start Talk</button>
-              <button>Add Reminder</button>
-            </div>
-          </div>
-        </article>
+        <div class="chips" id="categoryChips"></div>
+        <div id="feed"></div>
       </section>
 
-      <aside class="right panel">
-        <h4>Learner Snapshot</h4>
-        <p class="meta" style="margin-top:0">Completion this month</p>
-        <div class="progress"><span></span></div>
-        <p class="meta">14 / 29 assigned completed</p>
+      <aside class="panel">
+        <h4 style="margin:0 0 10px">Learner Snapshot</h4>
+        <p class="meta" style="margin:0 0 6px">Completion this month</p>
+        <div class="progress"><span id="completionBar" style="width:0%"></span></div>
+        <p class="meta" id="completionText">0 / 0 assigned completed</p>
 
-        <h4 style="margin-top:20px">Crew Activity</h4>
-        <p class="meta">Most watched this week:</p>
-        <ol class="meta" style="padding-left:18px">
-          <li>Leading Edge Work</li>
-          <li>Ladder Safety — Portable</li>
-          <li>Rigging and Load Securement</li>
-        </ol>
+        <div class="muted-box">
+          <strong style="font-size:0.9rem">Crew Activity</strong>
+          <ol class="meta" id="crewTrending" style="padding-left:18px; margin:6px 0 0"></ol>
+        </div>
 
-        <h4 style="margin-top:20px">Gamification</h4>
-        <p class="meta">+25 XP for completing a 10-minute talk today.</p>
-        <button class="primary" style="width:100%">Continue Streak</button>
+        <div class="muted-box">
+          <strong style="font-size:0.9rem">Feed Rules</strong>
+          <p class="meta" style="margin:6px 0 0">
+            Fatal Four and overdue topics are ranked higher. Mandatory content remains pinned.
+          </p>
+        </div>
       </aside>
     </main>
+
+    <script>
+      const state = {
+        talks: [],
+        filtered: [],
+        selectedCategory: 'All',
+        search: '',
+        sort: 'recommended'
+      };
+
+      function severityClass(talk) {
+        const p = (talk.osha_priority || '').toLowerCase();
+        if (p.includes('fatal four')) return { text: 'Fatal Four', cls: 'high' };
+        if (p.includes('top 10')) return { text: 'Top 10', cls: 'medium' };
+        return { text: 'Standard', cls: 'low' };
+      }
+
+      function recommendationScore(talk) {
+        let score = 0;
+        const p = (talk.osha_priority || '').toLowerCase();
+        const c = (talk.hazard_category || '').toLowerCase();
+        if (p.includes('fatal four')) score += 30;
+        if (p.includes('top 10')) score += 20;
+        if (c === 'fall') score += 15;
+        if (talk.applies_to === 'Both') score += 10;
+        score += Math.max(0, 150 - (talk.talk_number || 150));
+        return score;
+      }
+
+      function applyFilters() {
+        const s = state.search.trim().toLowerCase();
+        state.filtered = state.talks.filter((t) => {
+          const matchesCategory = state.selectedCategory === 'All' || t.hazard_category === state.selectedCategory;
+          const blob = [t.title, t.hazard_category, t.primary_cfr, ...(t.secondary_cfr || [])].join(' ').toLowerCase();
+          const matchesSearch = !s || blob.includes(s);
+          return matchesCategory && matchesSearch;
+        });
+
+        const sorter = {
+          recommended: (a, b) => recommendationScore(b) - recommendationScore(a),
+          number: (a, b) => (a.talk_number || 0) - (b.talk_number || 0),
+          duration: (a, b) => (a.duration_minutes || 0) - (b.duration_minutes || 0),
+          title: (a, b) => (a.title || '').localeCompare(b.title || '')
+        }[state.sort];
+        state.filtered.sort(sorter);
+      }
+
+      function renderChips() {
+        const chips = document.getElementById('categoryChips');
+        const categories = ['All', ...new Set(state.talks.map((t) => t.hazard_category).filter(Boolean))];
+        chips.innerHTML = categories.map((c) => `
+          <div class="chip ${c === state.selectedCategory ? 'active' : ''}" data-chip="${c}">${c}</div>
+        `).join('');
+
+        chips.querySelectorAll('[data-chip]').forEach((el) => {
+          el.addEventListener('click', () => {
+            state.selectedCategory = el.dataset.chip;
+            update();
+          });
+        });
+      }
+
+      function renderFeed() {
+        const feed = document.getElementById('feed');
+        const resultsMeta = document.getElementById('resultsMeta');
+        resultsMeta.textContent = `${state.filtered.length} talks shown`;
+
+        if (!state.filtered.length) {
+          feed.innerHTML = '<div class="panel empty">No talks match those filters.</div>';
+          return;
+        }
+
+        feed.innerHTML = state.filtered.slice(0, 40).map((talk) => {
+          const sev = severityClass(talk);
+          const points = (talk.talking_points || []).slice(0, 2);
+          return `
+            <article class="card">
+              <div class="card-top">
+                <div>
+                  <strong>#${talk.talk_number} ${talk.title}</strong>
+                  <div class="meta">${talk.duration_minutes || 10} min • ${talk.hazard_category || 'General'} • CFR ${talk.primary_cfr || 'N/A'}</div>
+                </div>
+                <span class="severity ${sev.cls}">${sev.text}</span>
+              </div>
+              <div class="card-body">
+                <h3>Discussion prompt</h3>
+                <p>${talk.discussion_prompt || 'Start a quick crew discussion before work begins.'}</p>
+                <p class="meta">${points.map((p) => `• ${p}`).join('<br/>')}</p>
+                <div class="actions">
+                  <button class="primary">Start Talk</button>
+                  <button>Save</button>
+                  <button>Assign Crew</button>
+                </div>
+              </div>
+            </article>
+          `;
+        }).join('');
+      }
+
+      function renderSidebar() {
+        const total = state.talks.length;
+        const assigned = Math.min(29, total);
+        const completed = Math.round(assigned * 0.48);
+        const pct = assigned ? Math.round((completed / assigned) * 100) : 0;
+
+        document.getElementById('totalTalksNav').textContent = total;
+        document.getElementById('assignedCount').textContent = assigned;
+        document.getElementById('completionText').textContent = `${completed} / ${assigned} assigned completed`;
+        document.getElementById('completionBar').style.width = `${pct}%`;
+        document.getElementById('compliancePct').textContent = `${pct}%`;
+
+        const trending = [...state.talks]
+          .sort((a, b) => recommendationScore(b) - recommendationScore(a))
+          .slice(0, 3)
+          .map((t) => `<li>${t.title}</li>`)
+          .join('');
+        document.getElementById('crewTrending').innerHTML = trending;
+      }
+
+      function wireControls() {
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+          state.search = e.target.value;
+          update();
+        });
+        document.getElementById('sortSelect').addEventListener('change', (e) => {
+          state.sort = e.target.value;
+          update();
+        });
+      }
+
+      function update() {
+        applyFilters();
+        renderChips();
+        renderFeed();
+        renderSidebar();
+      }
+
+      async function loadTalks() {
+        try {
+          const res = await fetch('../toolbox_talks_library.json');
+          if (!res.ok) throw new Error('Failed to fetch JSON');
+          state.talks = await res.json();
+        } catch (err) {
+          state.talks = [
+            {
+              talk_number: 1,
+              title: 'Fall Protection — General Requirements',
+              hazard_category: 'Fall',
+              duration_minutes: 10,
+              applies_to: 'Both',
+              osha_priority: 'Fatal Four',
+              primary_cfr: '1926.501',
+              secondary_cfr: ['1910.28'],
+              talking_points: ['Fallback data loaded because JSON fetch failed.'],
+              discussion_prompt: 'What is one fall hazard on your site today?'
+            }
+          ];
+          document.getElementById('resultsMeta').textContent = 'Loaded fallback data (serve project root for full feed).';
+          console.warn(err);
+        }
+        update();
+      }
+
+      wireControls();
+      loadTalks();
+    </script>
   </body>
 </html>
